@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" filepath="$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/War Card Game Using Deque/War Card Game Using Deque.iml" filepath="$PROJECT_DIR$/War Card Game Using Deque/War Card Game Using Deque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/War Card Game Using Stack/War Card Game Using Stack.iml" filepath="$PROJECT_DIR$/War Card Game Using Stack/War Card Game Using Stack.iml" />
+    </modules>
+  </component>
+</project>

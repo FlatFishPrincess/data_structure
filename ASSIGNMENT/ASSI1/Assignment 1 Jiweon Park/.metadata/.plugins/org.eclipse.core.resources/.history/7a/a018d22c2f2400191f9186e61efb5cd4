@@ -1,0 +1,56 @@
+/**
+ * The card game of war
+ *
+ */
+
+
+public class WarCardGame {
+
+	public static void main(String[] args) {
+
+		// create and display the deck of cards
+		
+		Deck deck = new Deck("Card Deck");
+		deck.createStandardCardDeck();
+		deck.display("Unshuffled");
+		deck.shuffle();
+		deck.display("Shuffled");
+		
+		// create the two players
+		
+		Player player1 = new Player("Brother");
+		Player player2 = new Player("Sister");
+
+		// deal cards to each player and display their hands
+		int deckSize = deck.size() / 2;
+		for (int i = 0; i < deckSize; i++)
+			player1.addCardToPlay(deck.removeFront());
+
+		for (int i = 0; i < deckSize; i++)
+			player2.addCardToPlay(deck.removeFront());
+
+		// INSERT CODE HERE TO DEAL THE CARDS TO EACH PLAYER
+		player1.displayCardsToPlay();
+		player2.displayCardsToPlay();
+		
+		boolean isEndgame = false;
+		while(!isEndgame){
+			Card card1 = player1.getCardToPlay();
+			Card card2 = player2.getCardToPlay();
+			
+			if(card1.compareTo(card2) > 0){
+				// player 1 win
+				player1.addWonCard(card1);
+				player1.addWonCard(card2);
+			} else if(card1.compareTo(card2) < 0){
+				player2.addWonCard(card1);
+				player2.addWonCard(card2);
+			} else if(card1.compareTo(card2) == 0){
+				// declare war
+			}
+		}
+
+		// the rest of the code to implement the game goes here
+
+	}
+}

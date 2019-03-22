@@ -1,0 +1,72 @@
+======== Iterative Factorial(0) = 1, total calls 1
+======== Iterative Factorial(1) = 1, total calls 1
+======== Iterative Factorial(2) = 2, total calls 1
+======== Iterative Factorial(3) = 6, total calls 1
+======== Iterative Factorial(4) = 24, total calls 1
+======== Iterative Factorial(5) = 120, total calls 1
+======== Iterative Factorial(6) = 720, total calls 1
+======== Iterative Factorial(7) = 5040, total calls 1
+======== Iterative Factorial(8) = 40320, total calls 1
+======== Iterative Factorial(9) = 362880, total calls 1
+======== Iterative Factorial(10) = 3628800, total calls 1
+======== Iterative Factorial(15) = 1307674368000, total calls 1
+======== Recursive Factorial(0) = 1, total calls 1
+======== Recursive Factorial(1) = 1, total calls 1
+======== Recursive Factorial(2) = 2, total calls 2
+======== Recursive Factorial(3) = 6, total calls 3
+======== Recursive Factorial(4) = 24, total calls 4
+======== Recursive Factorial(5) = 120, total calls 5
+======== Recursive Factorial(6) = 720, total calls 6
+======== Recursive Factorial(7) = 5040, total calls 7
+======== Recursive Factorial(8) = 40320, total calls 8
+======== Recursive Factorial(9) = 362880, total calls 9
+======== Recursive Factorial(10) = 3628800, total calls 10
+======== Recursive Factorial(15) = 1307674368000, total calls 15
+======== Tail Recursive Factorial(0) = 1, total calls 1
+======== Tail Recursive Factorial(1) = 1, total calls 1
+======== Tail Recursive Factorial(2) = 2, total calls 2
+======== Tail Recursive Factorial(3) = 6, total calls 3
+======== Tail Recursive Factorial(4) = 24, total calls 4
+======== Tail Recursive Factorial(5) = 120, total calls 5
+======== Tail Recursive Factorial(6) = 720, total calls 6
+======== Tail Recursive Factorial(7) = 5040, total calls 7
+======== Tail Recursive Factorial(8) = 40320, total calls 8
+======== Tail Recursive Factorial(9) = 362880, total calls 9
+======== Tail Recursive Factorial(10) = 3628800, total calls 10
+======== Tail Recursive Factorial(15) = 1307674368000, total calls 15
+======== Iterative Fibonacci(0) = 0, total calls 1
+======== Iterative Fibonacci(1) = 1, total calls 1
+======== Iterative Fibonacci(2) = 1, total calls 1
+======== Iterative Fibonacci(3) = 2, total calls 1
+======== Iterative Fibonacci(4) = 3, total calls 1
+======== Iterative Fibonacci(5) = 5, total calls 1
+======== Iterative Fibonacci(6) = 8, total calls 1
+======== Iterative Fibonacci(7) = 13, total calls 1
+======== Iterative Fibonacci(8) = 21, total calls 1
+======== Iterative Fibonacci(9) = 34, total calls 1
+======== Iterative Fibonacci(10) = 55, total calls 1
+======== Iterative Fibonacci(15) = 610, total calls 1
+======== Recursive Fibonacci(0) = 0, total calls 1
+======== Recursive Fibonacci(1) = 1, total calls 1
+======== Recursive Fibonacci(2) = 1, total calls 3
+======== Recursive Fibonacci(3) = 2, total calls 5
+======== Recursive Fibonacci(4) = 3, total calls 9
+======== Recursive Fibonacci(5) = 5, total calls 15
+======== Recursive Fibonacci(6) = 8, total calls 25
+======== Recursive Fibonacci(7) = 13, total calls 41
+======== Recursive Fibonacci(8) = 21, total calls 67
+======== Recursive Fibonacci(9) = 34, total calls 109
+======== Recursive Fibonacci(10) = 55, total calls 177
+======== Recursive Fibonacci(15) = 610, total calls 1973
+======== Tail Recursive Fibonacci(0) = 0, total calls 1
+======== Tail Recursive Fibonacci(1) = 1, total calls 1
+======== Tail Recursive Fibonacci(2) = 1, total calls 2
+======== Tail Recursive Fibonacci(3) = 2, total calls 3
+======== Tail Recursive Fibonacci(4) = 3, total calls 4
+======== Tail Recursive Fibonacci(5) = 5, total calls 5
+======== Tail Recursive Fibonacci(6) = 8, total calls 6
+======== Tail Recursive Fibonacci(7) = 13, total calls 7
+======== Tail Recursive Fibonacci(8) = 21, total calls 8
+======== Tail Recursive Fibonacci(9) = 34, total calls 9
+======== Tail Recursive Fibonacci(10) = 55, total calls 10
+======== Tail Recursive Fibonacci(15) = 610, total calls 15

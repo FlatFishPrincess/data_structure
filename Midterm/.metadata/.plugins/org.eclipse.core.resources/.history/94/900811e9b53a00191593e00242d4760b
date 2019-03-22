@@ -1,0 +1,117 @@
+import java.util.Random;
+
+/**
+ * A deck of cards using a stack
+ *
+ */
+
+public class Deck extends ArrayStack2<Card> {
+
+	private String name;
+	public static final int CARD_NUMBER = 52;
+	private final int NUMBER = 14;
+
+
+	public Deck(String name) {
+		this.name = name;
+	}	
+	
+	/**
+	 * @return the name
+	 */
+	public String getName() {
+		return name;
+	}
+
+	/**
+	 * @param name the name to set
+	 */
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	/**
+	 * Using the Suit and CardType enums, create a full deck of cards.
+	 * For each suit and card type, add the card to the queue
+	 */
+	public void createStandardCardDeck() {
+
+//		 Card(Suit suit, CardType cardType, int cardNumber) {
+		for(Suit suit : Suit.values()){
+			for(CardType cardType : CardType.values()){
+				if(cardType == cardType.Number){
+					for(int i = 2; i<= 10; i++){
+						push(new Card(suit, cardType, i));
+					}
+				} else {
+					for(int i = 11; i<= 14; i++){
+						if(cardType.getCardTypeValue() == (i-10))
+							push(new Card(suit, cardType, i));
+					}
+				}
+			}
+		}
+		
+	}
+	
+	/**
+	 * Shuffle the deck by removing each element from the stack and adding them
+	 * to an array.
+	 * Then shuffle the array.
+	 * Finally add each array element back onto the stack.
+	 */
+	public void shuffle() {
+		// create an array of cards the same size as the queue
+		int deckSize = size();
+		Card[] cards = new Card[deckSize];
+		
+		// copy over the elements to the array, removing them from the queue
+		
+		for (int i = 0; i < cards.length && !isEmpty(); i++) {
+			cards[i] = pop();			
+		}
+		
+		// initialize the random number generator
+		Random random = new Random();
+		random.nextInt();
+
+		// shuffle by picking a random card from the remaining
+		// cards and trading places with the selected card
+		int newLocation; // place in the array to swap
+		Card temp;  // temp storage for the swap
+		
+		for (int i = 0; i < deckSize; i++) {
+			
+			// the new location is the current card plus a random selection 
+			// from all remaining cards
+			newLocation = i + random.nextInt(deckSize - i);
+			// now swap the current card to the new location
+			temp = cards[i];
+			cards[i] = cards[newLocation];
+			cards[newLocation] = temp;
+		}	
+
+		// now put the shuffled array back onto the stack
+		// NOTE: This is inefficient, and shows the deficiency of using a 
+		// stack or queue for sorting/shuffling without additional methods.
+		//
+		// Java's Collections has a shuffle method that applies to any collection,
+		// but that is rather complex to implement, so we'll keep it basic
+		// here and promote data hiding.
+
+		for (int i = 0; i < cards.length; i++) {
+			push(cards[i]);			
+		}
+		
+	}
+	
+	/**
+	 * Display all elements in the deck using the title
+	 * @param title title to be displayed before the list of elements are shown
+	 */
+	public void display(String title) {
+
+		super.display(name + " " + title);
+
+	}
+}

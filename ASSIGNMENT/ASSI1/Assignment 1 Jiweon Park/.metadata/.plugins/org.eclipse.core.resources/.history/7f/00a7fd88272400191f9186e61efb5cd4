@@ -1,0 +1,141 @@
+/**
+   A class that implements the ADT deque by using a doubly linked chain of nodes.
+   
+   @author Frank M. Carrano
+   @author Timothy M. Henry
+   @version 5.0
+*/
+public class LinkedDeque<T> implements DequeInterface<T> {
+	private DoublyLinkedNode firstNode; // References node at front of deque
+	private DoublyLinkedNode lastNode; // References node at back of deque
+	private int size;
+
+	public LinkedDeque() {
+		firstNode = null;
+		lastNode = null;
+		size = 0;
+	} // end default constructor
+
+
+	@Override
+	public void addToFront(T newEntry) {
+		
+		firstNode.setPreviousNode(newEntry);
+	}
+
+
+	@Override
+	public void addToBack(T newEntry) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+	@Override
+	public T removeFront() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+	@Override
+	public T removeBack() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+	@Override
+	public T getFront() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+	@Override
+	public T getBack() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+	@Override
+	public boolean isEmpty() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+
+	@Override
+	public void clear() {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+	@Override
+	public int size() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	/**
+	 * Display all elements in a queue
+	 * Begin with the title followed by the queue size.
+	 * Then display each element using the toString() method 
+	 * of the element.
+	 * @param title title to display ahead of list of elements
+	 */
+	public void display(String title) {
+		int queueSize = size();
+		System.out.println("===================");
+		System.out.println(title + " size " + queueSize);
+		for(DoublyLinkedNode node = firstNode; node != null; node = node.getNextNode()) {
+			System.out.println(node.getData());
+		}
+		System.out.println("===================");
+	}
+	
+	private class DoublyLinkedNode {
+		private T data; // Deque entry
+		private DoublyLinkedNode next; // Link to next node
+		private DoublyLinkedNode previous; // Link to previous node
+
+		private DoublyLinkedNode(T dataPortion) {
+			data = dataPortion;
+			next = null;
+			previous = null;
+		} // end constructor
+
+		private DoublyLinkedNode(DoublyLinkedNode previousNode, T dataPortion, DoublyLinkedNode nextNode) {
+			data = dataPortion;
+			next = nextNode;
+			previous = previousNode;
+		} // end constructor
+
+		private T getData() {
+			return data;
+		} // end getData
+
+		@SuppressWarnings("unused")
+		private void setData(T newData) {
+			data = newData;
+		} // end setData
+
+		private DoublyLinkedNode getNextNode() {
+			return next;
+		} // end getNextNode
+
+		private void setNextNode(DoublyLinkedNode nextNode) {
+			next = nextNode;
+		} // end setNextNode
+
+		private DoublyLinkedNode getPreviousNode() {
+			return previous;
+		} // end getPreviousNode
+
+		private void setPreviousNode(DoublyLinkedNode previousNode) {
+			previous = previousNode;
+		} // end setPreviousNode
+	} // end DLNode
+
+} // end LinkedDeque

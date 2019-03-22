@@ -1,0 +1,89 @@
+/**
+* A player in the game of war.
+ * The player is initialized with a name, which is used to identify the player in output 
+ * @author mhrybyk
+ *
+ */
+public class Player implements PlayerInterface {
+
+	private String name;  // name of the player
+	
+	// each player has three decks
+	// cardsToPlay - the cards to be used to play war, chosen one at a time
+	// cardsWon - storage for all cards won in each battle
+	
+	private Deck cardsToPlay = new Deck("[CardsToPlay]");
+	private Deck cardsWon = new Deck("[CardsWon]");
+	private Deck war = new Deck("[War]");
+
+	public Player(String name) {
+		this.name = name;
+	}
+	
+
+	@Override
+	public String toString() {
+		return name + " " + cardsToPlay.size() + 
+				"-" + cardsWon.size() +
+				"-" + war.size();
+	}
+
+
+	@Override
+	public void addCardToPlay(Card card) {
+		cardsToPlay.addToFront(card);
+	}
+
+
+	@Override
+	public Card getCardToPlay() {
+		Card front = cardsToPlay.getFront();
+		return front;
+	}
+
+
+	@Override
+	public void addWonCard(Card card) {
+		cardsWon.addToFront(card);
+	}
+
+
+	@Override
+	public boolean declareWar(Card playedCard) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+
+	@Override
+	public void lostWarTo(Player otherPlayer) {
+		otherPlayer.wonWar();
+	}
+
+
+	@Override
+	public void wonWar() {
+		while(!war.isEmpty()){
+			cardsWon.addToBack(war.removeFront());
+		}
+	}
+
+
+	@Override
+	public void displayCardsToPlay() {
+		cardsToPlay.display(name);
+	}
+
+
+	@Override
+	public void displayCardsWon() {
+		cardsWon.display(name);
+	}
+
+
+	@Override
+	public void displayWar() {
+		war.display(name);
+	}	
+
+}

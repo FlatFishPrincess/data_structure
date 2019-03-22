@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Recursion&apos; to &apos;Recursion-class&apos;" description="Rename resource &apos;Recursion&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Recursion" name="Recursion-class" stamp="1549871186094" updateReferences="true"/>
+</session>

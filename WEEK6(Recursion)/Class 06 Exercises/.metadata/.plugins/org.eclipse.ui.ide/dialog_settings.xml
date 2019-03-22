@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/jiweonpark/Desktop/2019Winter/DATA STRUCTURE/ASSIGNMENT/ASSI2/Assignment 2 copy"/>
+		<item value="/Users/jiweonpark/Desktop/2019Winter/DATA STRUCTURE/WEEK5/Class 05 Exercises"/>
+		<item value="/Users/jiweonpark/Desktop/2019Winter/DATA STRUCTURE/WEEK6/Class 06 Exercises"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/jiweonpark/Desktop/2019Winter/DATA STRUCTURE/WEEK7/Class 07 Exercises"/>
+			<item value="/Users/jiweonpark/Desktop/2019Winter/DATA STRUCTURE/ASSIGNMENT/ASSI2/Assignment 2 copy/Recursion"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

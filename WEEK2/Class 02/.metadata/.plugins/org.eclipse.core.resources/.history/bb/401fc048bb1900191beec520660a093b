@@ -1,0 +1,42 @@
+package practice;
+
+public class OrderedPair<T> implements Pairable<T>{
+
+	//fields 
+	private T first, second; 
+	
+	// constructor 
+	public OrderedPair(T first, T second){
+		this.first = first;
+		this.second = second; 
+	}
+	
+	/**
+	 * @return the first object of the pair 
+	 * */
+	@Override
+	public T getFirst() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	/**
+	 * @return the first object of the pair 
+	 * */
+	@Override
+	public T getSecond() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	/**
+	 * change the object pair 
+	 * */
+	@Override
+	public void changeOrder() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+}

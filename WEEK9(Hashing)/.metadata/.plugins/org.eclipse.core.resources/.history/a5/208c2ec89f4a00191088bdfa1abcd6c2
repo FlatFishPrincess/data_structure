@@ -1,0 +1,72 @@
+Sorting Algorithm Analysis (1 point)
+
+Student Name: Jiweon Park
+
+1. Explain which algorithms have the best performance. Why are there differences in times? 
+	Recursive Sort has the best performance.
+	 
+
+	 
+	
+
+
+
+
+2. The sorting utility methods use the list interface methods. How does this affect the performance of each sorting algorithm?
+   What would you do to improve the performance of the sorting methods?
+   
+   
+   
+
+   
+3. Add the output from one of your test runs here (use cut and paste)
+
+	Testing sorting of list size 10000
+	Selection Sort Time = 303371430
+	Insertion Sort Time = 1675879
+	Recursive Sort Time = 770093
+	Shell Sort Time = 4946770
+	Merge Sort Time = 7038801
+	Quick Sort Time = 291677951
+	------------------------
+	Testing sorting of list size 100000
+	Selection Sort Time = 267265591
+	Insertion Sort Time = 401191
+	Recursive Sort Time = 391955
+	Shell Sort Time = 1372059
+	Merge Sort Time = 853443
+	Quick Sort Time = 351025619
+	------------------------
+	Testing sorting of list size 1000000
+	Selection Sort Time = 283478968
+	Insertion Sort Time = 506198
+	Recursive Sort Time = 389885
+	Shell Sort Time = 1518716
+	Merge Sort Time = 885007
+	Quick Sort Time = 378381889
+	------------------------
+	Testing sorting of list size 10000000
+	Selection Sort Time = 299592424
+	Insertion Sort Time = 516868
+	Recursive Sort Time = 291894
+	Shell Sort Time = 1434607
+	Merge Sort Time = 801138
+	Quick Sort Time = 444863775
+	------------------------
+	Testing sorting of list size 100000000
+	Selection Sort Time = 248329049
+	Insertion Sort Time = 314571
+	Recursive Sort Time = 205232
+	Shell Sort Time = 1207803
+	Merge Sort Time = 785131
+	Quick Sort Time = 242604419
+	------------------------
+	Testing sorting of list size 100000000
+	Selection Sort Time = 282400032
+	Insertion Sort Time = 350423
+	Recursive Sort Time = 208574
+	Shell Sort Time = 1223968
+	Merge Sort Time = 772285
+	Quick Sort Time = 236484175
+	------------------------
+

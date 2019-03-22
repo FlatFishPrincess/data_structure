@@ -1,0 +1,149 @@
+/**
+* A player in the game of war.
+ * The player is initialized with a name, which is used to identify the player in output 
+ * @author mhrybyk
+ *
+ */
+public class Player implements PlayerInterface {
+
+	private String name;  // name of the player
+	
+	// each player has three decks
+	// cardsToPlay - the cards to be used to play war, chosen one at a time
+	// cardsWon - storage for all cards won in each battle
+	
+	private Deck cardsToPlay = new Deck("[CardsToPlay]");
+	private Deck cardsWon = new Deck("[CardsWon]");
+	private Deck war = new Deck("[War]");
+
+	public Player(String name) {
+		this.name = name;
+	}
+	
+
+	@Override
+	public String toString() {
+		return name + " " + cardsToPlay.size() + 
+				"-" + cardsWon.size() +
+				"-" + war.size();
+	}
+
+
+	@Override
+	public void addCardToPlay(Card card) {
+		cardsToPlay.addToFront(card);
+	}
+
+
+	@Override
+	public Card getCardToPlay() {
+		Card front = cardsToPlay.removeFront();
+		return front;
+		
+		// if cardToPlay and cardWon is empty, null
+		if(cardsToPlay.isEmpty()){
+			if(cardsWon.isEmpty()){
+				return null;
+			} else {
+				String cardsToPlayName = cardsToPlay.getName();
+				String cardsWonName = cardsWon.getName();
+				cardsToPlay = cardsWon;
+				cardsToPlay.setName(cardsToPlayname)l
+				cardsToPlay.shuffle();
+				cardsWon = new CompletedDcek(cardsWonNAme);
+				
+				System.out.println(name + " restarting with " + cardsToPlay.size());
+			}
+		}
+		
+	}
+
+
+	@Override
+	public void addWonCard(Card card) {
+		cardsWon.addToFront(card);
+	}
+
+
+	@Override
+	public boolean declareWar(Card playedCard) {
+		boolean isDone = true;
+		if(cardsToPlay.size() < 4){
+			restartCard();
+			if(cardsToPlay.size() < 4){
+				isDone = false;
+				return isDone;
+			}
+		}
+		war.addToFront(playedCard);
+		for(int i = 0; i<3; i++){
+			if(!cardsToPlay.isEmpty())
+				war.addToFront(cardsToPlay.removeFront());
+		}
+		return isDone;
+		
+		
+		war.addToBack(playedCard);
+		for(int i = 0; i<3; i++){
+			Card card = getCardToPlay();
+			if(card == null)
+				return false;
+			else
+				war.addToBack(card);
+		}
+		return true;
+	}
+
+
+	@Override
+	public void lostWarTo(Player otherPlayer) {
+		while(!war.isEmpty()){
+			otherPlayer.addWonCard(war.removeFront());
+		}
+	}
+
+
+	@Override
+	public void wonWar() {
+		while(!war.isEmpty()){
+			cardsWon.addToBack(war.removeFront());
+		}
+	}
+
+
+	@Override
+	public void displayCardsToPlay() {
+		cardsToPlay.display(name);
+	}
+
+
+	@Override
+	public void displayCardsWon() {
+		cardsWon.display(name);
+	}
+
+
+	@Override
+	public void displayWar() {
+		war.display(name);
+	}	
+	
+	public boolean restartCard(){
+		// move all cards in cardsWon to cardsToPlay
+		boolean canRestart = true;
+		if(cardsWon.size() == 0){
+			canRestart = false;
+			return canRestart;
+		}
+		System.out.println(name + " restarting with " + cardsWon.size());
+		while(!cardsWon.isEmpty()){
+			cardsToPlay.addToBack(cardsWon.removeFront());
+		}
+		return canRestart;
+	}
+	
+	public int getCardSize(){
+		return  cardsToPlay.size();
+	}
+
+}

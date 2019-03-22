@@ -1,0 +1,48 @@
+Testing sorting of list size 10000
+Selection Sort Time = 664086600
+Insertion Sort Time = 2456700
+Recursive Insertion Sort Time = 1930200
+Shell Sort Time = 8569300
+Merge Sort Time = 18896600
+Quick Sort Time = 647421200
+------------------------
+Testing sorting of list size 100000
+Selection Sort Time = 632835900
+Insertion Sort Time = 1339100
+Recursive Insertion Sort Time = 973300
+Shell Sort Time = 2938200
+Merge Sort Time = 2094400
+Quick Sort Time = 815374800
+------------------------
+Testing sorting of list size 1000000
+Selection Sort Time = 629792300
+Insertion Sort Time = 1185400
+Recursive Insertion Sort Time = 903600
+Shell Sort Time = 2835300
+Merge Sort Time = 2340600
+Quick Sort Time = 831788900
+------------------------
+Testing sorting of list size 10000000
+Selection Sort Time = 632878200
+Insertion Sort Time = 1514000
+Recursive Insertion Sort Time = 364500
+Shell Sort Time = 2829600
+Merge Sort Time = 1694400
+Quick Sort Time = 840571400
+------------------------
+Testing sorting of list size 100000000
+Selection Sort Time = 363485600
+Insertion Sort Time = 384500
+Recursive Insertion Sort Time = 368200
+Shell Sort Time = 2626600
+Merge Sort Time = 1636900
+Quick Sort Time = 405233100
+------------------------
+Testing sorting of list size 100000000
+Selection Sort Time = 391007100
+Insertion Sort Time = 871100
+Recursive Insertion Sort Time = 458100
+Shell Sort Time = 2895300
+Merge Sort Time = 1854800
+Quick Sort Time = 398700800
+------------------------

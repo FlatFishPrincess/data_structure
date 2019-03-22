@@ -1,0 +1,55 @@
+/**
+ * The card game of war
+ *
+ */
+
+public class WarCardGame {
+
+	public static void main(String[] args) {
+
+		// create and display the deck of cards
+
+		Deck deck = new Deck("Card Deck");
+		deck.createStandardCardDeck();
+		deck.display("Unshuffled");
+		deck.shuffle();
+		deck.display("Shuffled");
+
+		// create the two players
+
+		Player player1 = new Player("Brother");
+		Player player2 = new Player("Sister");
+
+		// deal cards to each player and display their hands
+
+		// INSERT CODE HERE TO DEAL THE CARDS TO EACH PLAYER
+
+		int deckSize = deck.size() / 2;
+		for (int i = 0; i < deckSize; i++)
+			player1.addCardToPlay(deck.pop());
+
+		for (int i = 0; i < deckSize; i++)
+			player2.addCardToPlay(deck.pop());
+
+		player1.displayCardsToPlay();
+		player2.displayCardsToPlay();
+		
+		/*
+		 * Round 1
+			Brother 26-0-0
+			Sister 26-0-0
+			Player1 card [Clubs Number 9]  vs Player2 card [Diamonds Number 2]
+			Brother 25-2-0 wins round
+			*******************
+		 */
+		
+		boolean gg = false;
+		int counter = 1;
+		while(!gg){
+			System.out.println(player1);
+			System.out.println(player2);
+		}
+		
+		
+	}
+}

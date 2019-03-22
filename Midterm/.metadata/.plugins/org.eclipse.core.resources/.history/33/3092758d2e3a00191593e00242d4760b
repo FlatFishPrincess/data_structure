@@ -1,0 +1,70 @@
+import java.util.Vector;
+
+/**
+ * A class of stacks whose entries are stored in a vector.
+ * 
+ * @author Frank M. Carrano and Timothy M. Henry
+ * @version 5.0
+ */
+public final class VectorStack2<T> implements StackInterface<T> {
+	private Vector<T> stack; // Last element is the top entry in stack
+	private boolean integrityOK;
+	private static final int DEFAULT_CAPACITY = 50;
+	private static final int MAX_CAPACITY = 10000;
+
+	public VectorStack2() {
+		this(DEFAULT_CAPACITY);
+	} // end default constructor
+
+	public VectorStack2(int initialCapacity) {
+		integrityOK = false;
+		checkCapacity(initialCapacity);
+		stack = new Vector<>(initialCapacity); // Size doubles as needed
+		integrityOK = true;
+	} // end constructor
+
+	// Throws an exception if this object is not initialized.
+	private void checkIntegrity() {
+		if (!integrityOK)
+			throw new SecurityException("VectorStack object is corrupt.");
+	} // end checkIntegrity
+
+	// Throws an exception if the client requests a capacity that is too large.
+	private void checkCapacity(int capacity) {
+		if (capacity > MAX_CAPACITY)
+			throw new IllegalStateException(
+					"Attempt to create a stack " + "whose capacity exceeds " + "allowed maximum.");
+	} // end checkCapacity
+
+	@Override
+	public void push(T newEntry) {
+		stack.add(newEntry);
+	}
+
+	@Override
+	public T pop() {
+		return stack.remove(stack.size() - 1);
+	}
+
+	@Override
+	public T peek() {
+		T result = null;
+		checkIntegrity();
+		result = stack.lastElement();
+		return result;
+	}
+
+	@Override
+	public boolean isEmpty() {
+		return stack.isEmpty();
+	}
+
+	@Override
+	public void clear() {
+		stack.removeAllElements();
+	}
+
+//  < Implementations of stack methods go here
+//  . . .
+
+} // end VectorStack

@@ -1,0 +1,120 @@
+/**
+ * The card game of war
+ *
+ */
+
+public class WarCardGame {
+
+	public static void main(String[] args) {
+
+		// create and display the deck of cards
+		
+		Deck deck = new Deck("Card Deck");
+		deck.createStandardCardDeck();
+		deck.display("Unshuffled");
+		deck.shuffle();
+		deck.display("Shuffled");
+		
+		// create the two players
+		
+		Player player1 = new Player("Brother");
+		Player player2 = new Player("Sister");
+
+		// deal cards to each player and display their hands
+		
+		// INSERT CODE HERE TO DEAL THE CARDS TO EACH PLAYER
+		
+		// Distributes cards divided into two from the deck to each player
+		// card is popped from the deck using pop method
+		int deckSize = deck.size() / 2;
+		for(int i = 0; i< deckSize; i++)
+			player1.addCardToPlay(deck.pop());
+		
+		for(int i = 0; i< deckSize; i++)
+			player2.addCardToPlay(deck.pop());
+		
+		player1.displayCardsToPlay();
+		player2.displayCardsToPlay();
+		
+		Card p1Card; 
+		Card p2Card;
+		boolean isDone = false;
+		boolean isWarDeclared = false;
+		int round = 1;
+		while(!isDone){
+			System.out.println("Round " + round);
+			p1Card = player1.getCardToPlay();
+			p2Card = player2.getCardToPlay();
+			
+			System.out.println(player1.toString() + "\n" + player2.toString());
+			
+			System.out.println("Player1 card [" + p1Card.toString() + "] vs Player2 card [" + p2Card.toString() + "]");
+			
+			// compare each player card
+			if(p1Card.compareTo(p2Card) > 0){
+				// p1 card won
+				player1.addWonCard(p1Card);
+				player1.addWonCard(p2Card);
+				// check if war is declared
+				if(isWarDeclared){
+					player1.wonWar();
+					isWarDeclared = false;
+				}
+					
+				System.out.println(player1.toString() + "wins round");
+			} else if(p1Card.compareTo(p2Card) < 0) {
+				// p2 card won
+				player2.addWonCard(p1Card);
+				player2.addWonCard(p2Card);
+				// check if war is declared
+				if(isWarDeclared){
+					player2.wonWar();
+					isWarDeclared = false;
+				}
+				System.out.println(player2.toString() + "wins round");
+			} else if(p1Card.compareTo(p2Card) == 0){
+				// war declare
+				System.out.println("xxxxx War declared xxxxx");
+				isWarDeclared = true;
+				if(player1.declareWar(p1Card) || playesr2.declareWar(p2Card)){
+					isDone = true;
+					break;
+				}
+				player1.displayWar();
+				player2.displayWar();
+			}
+			round++;
+		}
+		
+//		Round 1
+//		Brother 26-0-0		toString() method
+//		Sister 26-0-0	 	toString() method
+//		Player1 card [Clubs Number 9]  vs Player2 card [Diamonds Number 2]		
+//		Brother 25-2-0 wins round
+//		*******************
+		// keep tracking of game round (until one player has no card to play)
+		// display each player current status using toString Method
+		// display each player's card  => player1 getCardToPlay() @return Card vs player2 getCardToPlay()
+		// Display winner => addWonCard() + wins round 
+		
+//		Player1 card [Diamonds Queen 12]  vs Player2 card [Hearts Queen 12]
+//				xxxxx War declared xxxxx
+//				===================
+//				[War] Brother size 4
+//				Diamonds Queen 12
+//				Hearts King 13
+//				Hearts Number 6
+//				Diamonds Number 3
+//				===================
+//				===================
+//				[War] Sister size 4
+//				Hearts Queen 12  displayWar()
+//				Hearts Number 7
+//				Spades Ace 14
+//				Diamonds Jack 11
+				
+		// if(card value is same, declare war then declareWar(Card playedCard))
+		// the rest of the code to implement the game goes here
+
+	}
+}

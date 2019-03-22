@@ -1,0 +1,175 @@
+
+/**
+ * A linked implemention of the ADT list. This uses a single link (no tail is to be used).
+ * 
+ * @author Jiweon Park
+ */
+
+public class LList2<T> implements ListInterface<T> {
+	
+	// data fields
+	private Node firstNode;
+	private int numberOfEntries;
+	
+	public LList2() {
+		initializeDataFields();
+	} // end default constructor
+
+	// Initializes the class's data fields to indicate an empty list.
+	private void initializeDataFields() {
+		firstNode = null;
+		numberOfEntries = 0;
+	} // end initializeDataFields
+
+	// get node at the position
+	private Node getNodeAt(int givenPosition) {
+		if(givenPosition >= 1 && givenPosition <= numberOfEntries){
+			Node currentNode = firstNode;
+			if(givenPosition == 1)
+				return currentNode;
+			for(int i = 1; i< numberOfEntries; i++){
+				currentNode = currentNode.getNextNode();
+			}
+			return currentNode;
+		} else
+			throw new IndexOutOfBoundsException("givenPosition out of bounds : " + givenPosition);
+	} // end getNodeAt
+	
+	@Override
+	public void add(T newEntry) {
+		Node newNode = new Node(newEntry);
+		if(isEmpty())
+			firstNode = newNode;
+		else{
+			Node lastNode = getNodeAt(numberOfEntries);
+			lastNode.setNextNode(newNode);
+		}
+		numberOfEntries++;
+	}
+
+	@Override
+	public void add(int newPosition, T newEntry) {
+		Node newNode = new Node(newEntry);
+		if(isEmpty())
+			firstNode = newNode;
+		else if(newPosition == 1){
+			newNode.setNextNode(firstNode);
+			firstNode = newNode;
+		} else {
+			Node beforeNode = getNodeAt(newPosition - 1);
+			Node afterNode = beforeNode.getNextNode();
+			beforeNode.setNextNode(newNode);
+			newNode.setNextNode(afterNode);
+		}
+		numberOfEntries++;
+	}
+
+	@Override
+	public T remove(int givenPosition) {
+		if(givenPosition >0 && givenPosition <= numberOfEntries){
+			if(givenPosition == 1){
+				T result = firstNode.getData();
+				firstNode = firstNode.getNextNode();
+				return result;
+			} else {
+				Node nodeBefore = getNodeAt(givenPosition - 1);
+				Node nodeToRemove = nodeBefore.getNextNode();
+				Node nodeAfter = nodeToRemove.getNextNode();
+				nodeBefore.setNextNode(nodeAfter);
+				T result = nodeToRemove.getData();
+				nodeToRemove = null;
+				return result; 
+			}
+		} else
+			throw new IndexOutOfBoundsException();
+	}
+
+	@Override
+	public void clear() {
+		firstNode = null;
+		numberOfEntries = 0;
+	}
+
+	@Override
+	public T replace(int givenPosition, T newEntry) {
+		Node nodeToReplace = getNodeAt(givenPosition);
+		nodeToReplace.setData(newEntry);
+		return nodeToReplace.getData();
+	}
+
+	@Override
+	public T getEntry(int givenPosition) {
+		T result = getNodeAt(givenPosition).getData();
+		return result;
+	}
+
+	@Override
+	public T[] toArray() {
+		T[] arr = (T[]) new Object[numberOfEntries];
+		Node currentNode = firstNode;
+		for(int i =0; i< numberOfEntries; i++){
+			arr[i] = currentNode.getData();
+			currentNode = currentNode.getNextNode();
+		}
+		return arr;
+	}
+
+	@Override
+	public boolean contains(T anEntry) {
+		boolean found = false;
+		Node currentNode = firstNode;
+		while(currentNode != null){
+			if(currentNode.getData().equals(anEntry)){
+				found = true;
+				break;
+			}
+			currentNode = currentNode.getNextNode();
+		}
+		return found;
+	}
+
+	@Override
+	public int getLength() {
+		return numberOfEntries;
+	}
+
+	@Override
+	public boolean isEmpty() {
+		return firstNode == null;
+	}
+
+	// This Node class is for LList
+	private class Node {
+		private T data; // Entry in list
+		private Node next; // Link to next node
+
+		private Node(T dataPortion) {
+			data = dataPortion;
+			next = null;
+		} // end constructor
+
+		private Node(T dataPortion, Node nextNode) {
+			data = dataPortion;
+			next = nextNode;
+		} // end constructor
+
+		private T getData() {
+			return data;
+		} // end getData
+
+		private void setData(T newData) {
+			data = newData;
+		} // end setData
+
+		private Node getNextNode() {
+			return next;
+		} // end getNextNode
+
+		private void setNextNode(Node nextNode) {
+			next = nextNode;
+		} // end setNextNode
+	} // end Node
+	
+} // end LList
+
+

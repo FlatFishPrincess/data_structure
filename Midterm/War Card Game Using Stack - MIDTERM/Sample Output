@@ -1,0 +1,3636 @@
+===================
+Card Deck Unshuffled size 52
+Hearts Number 2
+Hearts Number 3
+Hearts Number 4
+Hearts Number 5
+Hearts Number 6
+Hearts Number 7
+Hearts Number 8
+Hearts Number 9
+Hearts Number 10
+Hearts Jack 11
+Hearts Queen 12
+Hearts King 13
+Hearts Ace 14
+Diamonds Number 2
+Diamonds Number 3
+Diamonds Number 4
+Diamonds Number 5
+Diamonds Number 6
+Diamonds Number 7
+Diamonds Number 8
+Diamonds Number 9
+Diamonds Number 10
+Diamonds Jack 11
+Diamonds Queen 12
+Diamonds King 13
+Diamonds Ace 14
+Clubs Number 2
+Clubs Number 3
+Clubs Number 4
+Clubs Number 5
+Clubs Number 6
+Clubs Number 7
+Clubs Number 8
+Clubs Number 9
+Clubs Number 10
+Clubs Jack 11
+Clubs Queen 12
+Clubs King 13
+Clubs Ace 14
+Spades Number 2
+Spades Number 3
+Spades Number 4
+Spades Number 5
+Spades Number 6
+Spades Number 7
+Spades Number 8
+Spades Number 9
+Spades Number 10
+Spades Jack 11
+Spades Queen 12
+Spades King 13
+Spades Ace 14
+===================
+===================
+Card Deck Shuffled size 52
+Diamonds Number 2
+Clubs Number 9
+Hearts Jack 11
+Clubs Number 8
+Diamonds Number 9
+Spades Number 5
+Spades Number 2
+Clubs Queen 12
+Clubs Number 4
+Diamonds Number 6
+Diamonds Number 7
+Clubs Jack 11
+Spades Ace 14
+Hearts Number 9
+Spades Number 3
+Spades Jack 11
+Hearts Number 10
+Clubs Number 2
+Diamonds Number 4
+Hearts Number 5
+Hearts Number 3
+Clubs Number 3
+Clubs Number 7
+Hearts Number 8
+Spades Number 6
+Hearts King 13
+Hearts Number 6
+Clubs Number 6
+Clubs Number 10
+Diamonds Queen 12
+Spades King 13
+Hearts Number 7
+Hearts Queen 12
+Spades Number 8
+Diamonds King 13
+Diamonds Jack 11
+Clubs Number 5
+Diamonds Number 8
+Spades Queen 12
+Clubs Ace 14
+Hearts Number 4
+Diamonds Number 10
+Diamonds Number 5
+Clubs King 13
+Spades Number 9
+Spades Number 10
+Diamonds Ace 14
+Spades Number 4
+Diamonds Number 3
+Hearts Ace 14
+Hearts Number 2
+Spades Number 7
+===================
+===================
+Brother size 26
+Spades Number 7
+Hearts Ace 14
+Spades Number 4
+Spades Number 10
+Clubs King 13
+Diamonds Number 10
+Clubs Ace 14
+Diamonds Number 8
+Diamonds Jack 11
+Spades Number 8
+Hearts Number 7
+Diamonds Queen 12
+Clubs Number 6
+Hearts King 13
+Hearts Number 8
+Clubs Number 3
+Hearts Number 5
+Clubs Number 2
+Spades Jack 11
+Hearts Number 9
+Clubs Jack 11
+Diamonds Number 6
+Clubs Queen 12
+Spades Number 5
+Clubs Number 8
+Clubs Number 9
+===================
+===================
+Sister size 26
+Hearts Number 2
+Diamonds Number 3
+Diamonds Ace 14
+Spades Number 9
+Diamonds Number 5
+Hearts Number 4
+Spades Queen 12
+Clubs Number 5
+Diamonds King 13
+Hearts Queen 12
+Spades King 13
+Clubs Number 10
+Hearts Number 6
+Spades Number 6
+Clubs Number 7
+Hearts Number 3
+Diamonds Number 4
+Hearts Number 10
+Spades Number 3
+Spades Ace 14
+Diamonds Number 7
+Clubs Number 4
+Spades Number 2
+Diamonds Number 9
+Hearts Jack 11
+Diamonds Number 2
+===================
+Round 1
+Brother 26-0-0
+Sister 26-0-0
+Player1 card [Clubs Number 9]  vs Player2 card [Diamonds Number 2]
+Brother 25-2-0 wins round
+*******************
+Round 2
+Brother 25-2-0
+Sister 25-0-0
+Player1 card [Clubs Number 8]  vs Player2 card [Hearts Jack 11]
+Sister 24-2-0 wins round
+*******************
+Round 3
+Brother 24-2-0
+Sister 24-2-0
+Player1 card [Spades Number 5]  vs Player2 card [Diamonds Number 9]
+Sister 23-4-0 wins round
+*******************
+Round 4
+Brother 23-2-0
+Sister 23-4-0
+Player1 card [Clubs Queen 12]  vs Player2 card [Spades Number 2]
+Brother 22-4-0 wins round
+*******************
+Round 5
+Brother 22-4-0
+Sister 22-4-0
+Player1 card [Diamonds Number 6]  vs Player2 card [Clubs Number 4]
+Brother 21-6-0 wins round
+*******************
+Round 6
+Brother 21-6-0
+Sister 21-4-0
+Player1 card [Clubs Jack 11]  vs Player2 card [Diamonds Number 7]
+Brother 20-8-0 wins round
+*******************
+Round 7
+Brother 20-8-0
+Sister 20-4-0
+Player1 card [Hearts Number 9]  vs Player2 card [Spades Ace 14]
+Sister 19-6-0 wins round
+*******************
+Round 8
+Brother 19-8-0
+Sister 19-6-0
+Player1 card [Spades Jack 11]  vs Player2 card [Spades Number 3]
+Brother 18-10-0 wins round
+*******************
+Round 9
+Brother 18-10-0
+Sister 18-6-0
+Player1 card [Clubs Number 2]  vs Player2 card [Hearts Number 10]
+Sister 17-8-0 wins round
+*******************
+Round 10
+Brother 17-10-0
+Sister 17-8-0
+Player1 card [Hearts Number 5]  vs Player2 card [Diamonds Number 4]
+Brother 16-12-0 wins round
+*******************
+Round 11
+Brother 16-12-0
+Sister 16-8-0
+Player1 card [Clubs Number 3]  vs Player2 card [Hearts Number 3]
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Clubs Number 3
+Hearts Number 8
+Hearts King 13
+Clubs Number 6
+===================
+===================
+[War] Sister size 4
+Hearts Number 3
+Clubs Number 7
+Spades Number 6
+Hearts Number 6
+===================
+*******************
+Round 12
+Brother 12-12-4
+Sister 12-8-4
+Player1 card [Diamonds Queen 12]  vs Player2 card [Clubs Number 10]
+Brother 11-22-0 wins round
+*******************
+Round 13
+Brother 11-22-0
+Sister 11-8-0
+Player1 card [Hearts Number 7]  vs Player2 card [Spades King 13]
+Sister 10-10-0 wins round
+*******************
+Round 14
+Brother 10-22-0
+Sister 10-10-0
+Player1 card [Spades Number 8]  vs Player2 card [Hearts Queen 12]
+Sister 9-12-0 wins round
+*******************
+Round 15
+Brother 9-22-0
+Sister 9-12-0
+Player1 card [Diamonds Jack 11]  vs Player2 card [Diamonds King 13]
+Sister 8-14-0 wins round
+*******************
+Round 16
+Brother 8-22-0
+Sister 8-14-0
+Player1 card [Diamonds Number 8]  vs Player2 card [Clubs Number 5]
+Brother 7-24-0 wins round
+*******************
+Round 17
+Brother 7-24-0
+Sister 7-14-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Spades Queen 12]
+Brother 6-26-0 wins round
+*******************
+Round 18
+Brother 6-26-0
+Sister 6-14-0
+Player1 card [Diamonds Number 10]  vs Player2 card [Hearts Number 4]
+Brother 5-28-0 wins round
+*******************
+Round 19
+Brother 5-28-0
+Sister 5-14-0
+Player1 card [Clubs King 13]  vs Player2 card [Diamonds Number 5]
+Brother 4-30-0 wins round
+*******************
+Round 20
+Brother 4-30-0
+Sister 4-14-0
+Player1 card [Spades Number 10]  vs Player2 card [Spades Number 9]
+Brother 3-32-0 wins round
+*******************
+Round 21
+Brother 3-32-0
+Sister 3-14-0
+Player1 card [Spades Number 4]  vs Player2 card [Diamonds Ace 14]
+Sister 2-16-0 wins round
+*******************
+Round 22
+Brother 2-32-0
+Sister 2-16-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Diamonds Number 3]
+Brother 1-34-0 wins round
+*******************
+Round 23
+Brother 1-34-0
+Sister 1-16-0
+Player1 card [Spades Number 7]  vs Player2 card [Hearts Number 2]
+Brother 0-36-0 wins round
+*******************
+Round 24
+Brother 0-36-0
+Sister 0-16-0
+Brother restarting with 36
+Sister restarting with 16
+Player1 card [Diamonds Number 2]  vs Player2 card [Spades Number 5]
+Sister 15-2-0 wins round
+*******************
+Round 25
+Brother 35-0-0
+Sister 15-2-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Clubs Number 8]
+Brother 34-2-0 wins round
+*******************
+Round 26
+Brother 34-2-0
+Sister 14-2-0
+Player1 card [Hearts Number 2]  vs Player2 card [Diamonds King 13]
+Sister 13-4-0 wins round
+*******************
+Round 27
+Brother 33-2-0
+Sister 13-4-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Hearts Number 10]
+Brother 32-4-0 wins round
+*******************
+Round 28
+Brother 32-4-0
+Sister 12-4-0
+Player1 card [Spades Jack 11]  vs Player2 card [Diamonds Ace 14]
+Sister 11-6-0 wins round
+*******************
+Round 29
+Brother 31-4-0
+Sister 11-6-0
+Player1 card [Clubs Jack 11]  vs Player2 card [Spades Number 4]
+Brother 30-6-0 wins round
+*******************
+Round 30
+Brother 30-6-0
+Sister 10-6-0
+Player1 card [Diamonds Number 8]  vs Player2 card [Diamonds Number 9]
+Sister 9-8-0 wins round
+*******************
+Round 31
+Brother 29-6-0
+Sister 9-8-0
+Player1 card [Diamonds Number 6]  vs Player2 card [Hearts Number 9]
+Sister 8-10-0 wins round
+*******************
+Round 32
+Brother 28-6-0
+Sister 8-10-0
+Player1 card [Spades Number 6]  vs Player2 card [Clubs Number 2]
+Brother 27-8-0 wins round
+*******************
+Round 33
+Brother 27-8-0
+Sister 7-10-0
+Player1 card [Spades Number 7]  vs Player2 card [Spades Number 8]
+Sister 6-12-0 wins round
+*******************
+Round 34
+Brother 26-8-0
+Sister 6-12-0
+Player1 card [Diamonds Queen 12]  vs Player2 card [Hearts Queen 12]
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Diamonds Queen 12
+Hearts King 13
+Hearts Number 6
+Diamonds Number 3
+===================
+===================
+[War] Sister size 4
+Hearts Queen 12
+Hearts Number 7
+Spades Ace 14
+Diamonds Jack 11
+===================
+*******************
+Round 35
+Brother 22-8-4
+Sister 2-12-4
+Player1 card [Clubs Number 5]  vs Player2 card [Hearts Jack 11]
+Sister 1-22-0 wins round
+*******************
+Round 36
+Brother 21-8-0
+Sister 1-22-0
+Player1 card [Clubs Number 6]  vs Player2 card [Spades King 13]
+Sister 0-24-0 wins round
+*******************
+Round 37
+Brother 20-8-0
+Sister 0-24-0
+Sister restarting with 24
+Player1 card [Spades Number 10]  vs Player2 card [Hearts Number 2]
+Brother 19-10-0 wins round
+*******************
+Round 38
+Brother 19-10-0
+Sister 23-0-0
+Player1 card [Clubs Number 7]  vs Player2 card [Spades Ace 14]
+Sister 22-2-0 wins round
+*******************
+Round 39
+Brother 18-10-0
+Sister 22-2-0
+Player1 card [Hearts Number 4]  vs Player2 card [Diamonds Number 6]
+Sister 21-4-0 wins round
+*******************
+Round 40
+Brother 17-10-0
+Sister 21-4-0
+Player1 card [Hearts Number 3]  vs Player2 card [Spades Number 7]
+Sister 20-6-0 wins round
+*******************
+Round 41
+Brother 16-10-0
+Sister 20-6-0
+Player1 card [Clubs Number 4]  vs Player2 card [Spades Number 5]
+Sister 19-8-0 wins round
+*******************
+Round 42
+Brother 15-10-0
+Sister 19-8-0
+Player1 card [Clubs Number 10]  vs Player2 card [Diamonds Number 2]
+Brother 14-12-0 wins round
+*******************
+Round 43
+Brother 14-12-0
+Sister 18-8-0
+Player1 card [Spades Queen 12]  vs Player2 card [Diamonds Number 3]
+Brother 13-14-0 wins round
+*******************
+Round 44
+Brother 13-14-0
+Sister 17-8-0
+Player1 card [Spades Number 3]  vs Player2 card [Hearts Jack 11]
+Sister 16-10-0 wins round
+*******************
+Round 45
+Brother 12-14-0
+Sister 16-10-0
+Player1 card [Spades Number 2]  vs Player2 card [Hearts Queen 12]
+Sister 15-12-0 wins round
+*******************
+Round 46
+Brother 11-14-0
+Sister 15-12-0
+Player1 card [Clubs Number 9]  vs Player2 card [Clubs Number 6]
+Brother 10-16-0 wins round
+*******************
+Round 47
+Brother 10-16-0
+Sister 14-12-0
+Player1 card [Diamonds Number 7]  vs Player2 card [Diamonds Number 9]
+Sister 13-14-0 wins round
+*******************
+Round 48
+Brother 9-16-0
+Sister 13-14-0
+Player1 card [Diamonds Number 4]  vs Player2 card [Hearts King 13]
+Sister 12-16-0 wins round
+*******************
+Round 49
+Brother 8-16-0
+Sister 12-16-0
+Player1 card [Clubs Number 3]  vs Player2 card [Spades King 13]
+Sister 11-18-0 wins round
+*******************
+Round 50
+Brother 7-16-0
+Sister 11-18-0
+Player1 card [Diamonds Number 5]  vs Player2 card [Diamonds King 13]
+Sister 10-20-0 wins round
+*******************
+Round 51
+Brother 6-16-0
+Sister 10-20-0
+Player1 card [Hearts Number 5]  vs Player2 card [Spades Number 8]
+Sister 9-22-0 wins round
+*******************
+Round 52
+Brother 5-16-0
+Sister 9-22-0
+Player1 card [Diamonds Number 10]  vs Player2 card [Diamonds Number 8]
+Brother 4-18-0 wins round
+*******************
+Round 53
+Brother 4-18-0
+Sister 8-22-0
+Player1 card [Clubs King 13]  vs Player2 card [Clubs Number 5]
+Brother 3-20-0 wins round
+*******************
+Round 54
+Brother 3-20-0
+Sister 7-22-0
+Player1 card [Spades Number 9]  vs Player2 card [Diamonds Jack 11]
+Sister 6-24-0 wins round
+*******************
+Round 55
+Brother 2-20-0
+Sister 6-24-0
+Player1 card [Hearts Number 8]  vs Player2 card [Hearts Number 7]
+Brother 1-22-0 wins round
+*******************
+Round 56
+Brother 1-22-0
+Sister 5-24-0
+Player1 card [Clubs Queen 12]  vs Player2 card [Hearts Number 6]
+Brother 0-24-0 wins round
+*******************
+Round 57
+Brother 0-24-0
+Sister 4-24-0
+Brother restarting with 24
+Player1 card [Clubs Number 9]  vs Player2 card [Spades Jack 11]
+Sister 3-26-0 wins round
+*******************
+Round 58
+Brother 23-0-0
+Sister 3-26-0
+Player1 card [Clubs King 13]  vs Player2 card [Diamonds Queen 12]
+Brother 22-2-0 wins round
+*******************
+Round 59
+Brother 22-2-0
+Sister 2-26-0
+Player1 card [Hearts Number 6]  vs Player2 card [Diamonds Ace 14]
+Sister 1-28-0 wins round
+*******************
+Round 60
+Brother 21-2-0
+Sister 1-28-0
+Player1 card [Hearts Number 8]  vs Player2 card [Hearts Number 9]
+Sister 0-30-0 wins round
+*******************
+Round 61
+Brother 20-2-0
+Sister 0-30-0
+Sister restarting with 30
+Player1 card [Diamonds Number 2]  vs Player2 card [Spades Number 5]
+Sister 29-2-0 wins round
+*******************
+Round 62
+Brother 19-2-0
+Sister 29-2-0
+Player1 card [Spades Queen 12]  vs Player2 card [Spades Ace 14]
+Sister 28-4-0 wins round
+*******************
+Round 63
+Brother 18-2-0
+Sister 28-4-0
+Player1 card [Diamonds Number 8]  vs Player2 card [Diamonds Number 7]
+Brother 17-4-0 wins round
+*******************
+Round 64
+Brother 17-4-0
+Sister 27-4-0
+Player1 card [Hearts Number 10]  vs Player2 card [Spades Number 9]
+Brother 16-6-0 wins round
+*******************
+Round 65
+Brother 16-6-0
+Sister 26-4-0
+Player1 card [Diamonds Number 3]  vs Player2 card [Spades Number 7]
+Sister 25-6-0 wins round
+*******************
+Round 66
+Brother 15-6-0
+Sister 25-6-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Spades Number 2]
+Brother 14-8-0 wins round
+*******************
+Round 67
+Brother 14-8-0
+Sister 24-6-0
+Player1 card [Hearts Number 7]  vs Player2 card [Hearts King 13]
+Sister 23-8-0 wins round
+*******************
+Round 68
+Brother 13-8-0
+Sister 23-8-0
+Player1 card [Clubs Number 10]  vs Player2 card [Diamonds Number 4]
+Brother 12-10-0 wins round
+*******************
+Round 69
+Brother 12-10-0
+Sister 22-8-0
+Player1 card [Spades Number 4]  vs Player2 card [Spades Jack 11]
+Sister 21-10-0 wins round
+*******************
+Round 70
+Brother 11-10-0
+Sister 21-10-0
+Player1 card [Clubs Queen 12]  vs Player2 card [Diamonds Number 5]
+Brother 10-12-0 wins round
+*******************
+Round 71
+Brother 10-12-0
+Sister 20-10-0
+Player1 card [Clubs Number 2]  vs Player2 card [Hearts Queen 12]
+Sister 19-12-0 wins round
+*******************
+Round 72
+Brother 9-12-0
+Sister 19-12-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Clubs Number 3]
+Brother 8-14-0 wins round
+*******************
+Round 73
+Brother 8-14-0
+Sister 18-12-0
+Player1 card [Clubs Number 5]  vs Player2 card [Clubs Number 9]
+Sister 17-14-0 wins round
+*******************
+Round 74
+Brother 7-14-0
+Sister 17-14-0
+Player1 card [Clubs Number 6]  vs Player2 card [Diamonds Jack 11]
+Sister 16-16-0 wins round
+*******************
+Round 75
+Brother 6-14-0
+Sister 16-16-0
+Player1 card [Spades Number 10]  vs Player2 card [Clubs Number 7]
+Brother 5-16-0 wins round
+*******************
+Round 76
+Brother 5-16-0
+Sister 15-16-0
+Player1 card [Clubs Number 8]  vs Player2 card [Hearts Number 9]
+Sister 14-18-0 wins round
+*******************
+Round 77
+Brother 4-16-0
+Sister 14-18-0
+Player1 card [Hearts Number 2]  vs Player2 card [Hearts Number 5]
+Sister 13-20-0 wins round
+*******************
+Round 78
+Brother 3-16-0
+Sister 13-20-0
+Player1 card [Clubs Jack 11]  vs Player2 card [Hearts Number 6]
+Brother 2-18-0 wins round
+*******************
+Round 79
+Brother 2-18-0
+Sister 12-20-0
+Player1 card [Diamonds Number 10]  vs Player2 card [Clubs Number 4]
+Brother 1-20-0 wins round
+*******************
+Round 80
+Brother 1-20-0
+Sister 11-20-0
+Player1 card [Spades Number 6]  vs Player2 card [Diamonds King 13]
+Sister 10-22-0 wins round
+*******************
+Round 81
+Brother 0-20-0
+Sister 10-22-0
+Brother restarting with 20
+Player1 card [Clubs Queen 12]  vs Player2 card [Hearts Jack 11]
+Brother 19-2-0 wins round
+*******************
+Round 82
+Brother 19-2-0
+Sister 9-22-0
+Player1 card [Spades Number 10]  vs Player2 card [Hearts Number 4]
+Brother 18-4-0 wins round
+*******************
+Round 83
+Brother 18-4-0
+Sister 8-22-0
+Player1 card [Clubs Number 4]  vs Player2 card [Hearts Number 8]
+Sister 7-24-0 wins round
+*******************
+Round 84
+Brother 17-4-0
+Sister 7-24-0
+Player1 card [Clubs Number 10]  vs Player2 card [Spades Number 8]
+Brother 16-6-0 wins round
+*******************
+Round 85
+Brother 16-6-0
+Sister 6-24-0
+Player1 card [Diamonds Number 7]  vs Player2 card [Hearts Number 3]
+Brother 15-8-0 wins round
+*******************
+Round 86
+Brother 15-8-0
+Sister 5-24-0
+Player1 card [Hearts Number 6]  vs Player2 card [Diamonds Number 9]
+Sister 4-26-0 wins round
+*******************
+Round 87
+Brother 14-8-0
+Sister 4-26-0
+Player1 card [Diamonds Number 8]  vs Player2 card [Diamonds Number 6]
+Brother 13-10-0 wins round
+*******************
+Round 88
+Brother 13-10-0
+Sister 3-26-0
+Player1 card [Spades Number 2]  vs Player2 card [Spades Number 3]
+Sister 2-28-0 wins round
+*******************
+Round 89
+Brother 12-10-0
+Sister 2-28-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Spades King 13]
+Brother 11-12-0 wins round
+*******************
+Round 90
+Brother 11-12-0
+Sister 1-28-0
+Player1 card [Diamonds Number 5]  vs Player2 card [Diamonds Ace 14]
+Sister 0-30-0 wins round
+*******************
+Round 91
+Brother 10-12-0
+Sister 0-30-0
+Sister restarting with 30
+Player1 card [Clubs Number 7]  vs Player2 card [Hearts Number 9]
+Sister 29-2-0 wins round
+*******************
+Round 92
+Brother 9-12-0
+Sister 29-2-0
+Player1 card [Diamonds Number 10]  vs Player2 card [Diamonds Number 3]
+Brother 8-14-0 wins round
+*******************
+Round 93
+Brother 8-14-0
+Sister 28-2-0
+Player1 card [Diamonds Queen 12]  vs Player2 card [Hearts King 13]
+Sister 27-4-0 wins round
+*******************
+Round 94
+Brother 7-14-0
+Sister 27-4-0
+Player1 card [Clubs King 13]  vs Player2 card [Spades Number 5]
+Brother 6-16-0 wins round
+*******************
+Round 95
+Brother 6-16-0
+Sister 26-4-0
+Player1 card [Clubs Number 3]  vs Player2 card [Spades Number 4]
+Sister 25-6-0 wins round
+*******************
+Round 96
+Brother 5-16-0
+Sister 25-6-0
+Player1 card [Spades Number 9]  vs Player2 card [Clubs Number 6]
+Brother 4-18-0 wins round
+*******************
+Round 97
+Brother 4-18-0
+Sister 24-6-0
+Player1 card [Diamonds Number 4]  vs Player2 card [Diamonds King 13]
+Sister 23-8-0 wins round
+*******************
+Round 98
+Brother 3-18-0
+Sister 23-8-0
+Player1 card [Clubs Jack 11]  vs Player2 card [Hearts Number 8]
+Brother 2-20-0 wins round
+*******************
+Round 99
+Brother 2-20-0
+Sister 22-8-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Hearts Number 5]
+Brother 1-22-0 wins round
+*******************
+Round 100
+Brother 1-22-0
+Sister 21-8-0
+Player1 card [Hearts Number 10]  vs Player2 card [Spades Number 7]
+Brother 0-24-0 wins round
+*******************
+Round 101
+Brother 0-24-0
+Sister 20-8-0
+Brother restarting with 24
+Player1 card [Clubs Queen 12]  vs Player2 card [Diamonds Ace 14]
+Sister 19-10-0 wins round
+*******************
+Round 102
+Brother 23-0-0
+Sister 19-10-0
+Player1 card [Clubs Number 10]  vs Player2 card [Clubs Number 9]
+Brother 22-2-0 wins round
+*******************
+Round 103
+Brother 22-2-0
+Sister 18-10-0
+Player1 card [Spades King 13]  vs Player2 card [Spades Queen 12]
+Brother 21-4-0 wins round
+*******************
+Round 104
+Brother 21-4-0
+Sister 17-10-0
+Player1 card [Spades Number 9]  vs Player2 card [Hearts Queen 12]
+Sister 16-12-0 wins round
+*******************
+Round 105
+Brother 20-4-0
+Sister 16-12-0
+Player1 card [Diamonds Number 8]  vs Player2 card [Diamonds Number 5]
+Brother 19-6-0 wins round
+*******************
+Round 106
+Brother 19-6-0
+Sister 15-12-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Spades Number 3]
+Brother 18-8-0 wins round
+*******************
+Round 107
+Brother 18-8-0
+Sister 14-12-0
+Player1 card [Hearts Number 4]  vs Player2 card [Diamonds Number 9]
+Sister 13-14-0 wins round
+*******************
+Round 108
+Brother 17-8-0
+Sister 13-14-0
+Player1 card [Hearts Jack 11]  vs Player2 card [Spades Ace 14]
+Sister 12-16-0 wins round
+*******************
+Round 109
+Brother 16-8-0
+Sister 12-16-0
+Player1 card [Spades Number 10]  vs Player2 card [Clubs Number 5]
+Brother 15-10-0 wins round
+*******************
+Round 110
+Brother 15-10-0
+Sister 11-16-0
+Player1 card [Diamonds Number 10]  vs Player2 card [Spades Jack 11]
+Sister 10-18-0 wins round
+*******************
+Round 111
+Brother 14-10-0
+Sister 10-18-0
+Player1 card [Diamonds Number 7]  vs Player2 card [Hearts Number 2]
+Brother 13-12-0 wins round
+*******************
+Round 112
+Brother 13-12-0
+Sister 9-18-0
+Player1 card [Hearts Number 3]  vs Player2 card [Spades Number 2]
+Brother 12-14-0 wins round
+*******************
+Round 113
+Brother 12-14-0
+Sister 8-18-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Hearts Number 6]
+Brother 11-16-0 wins round
+*******************
+Round 114
+Brother 11-16-0
+Sister 7-18-0
+Player1 card [Hearts Number 10]  vs Player2 card [Clubs Number 8]
+Brother 10-18-0 wins round
+*******************
+Round 115
+Brother 10-18-0
+Sister 6-18-0
+Player1 card [Hearts Number 8]  vs Player2 card [Diamonds Jack 11]
+Sister 5-20-0 wins round
+*******************
+Round 116
+Brother 9-18-0
+Sister 5-20-0
+Player1 card [Clubs Jack 11]  vs Player2 card [Clubs Number 4]
+Brother 8-20-0 wins round
+*******************
+Round 117
+Brother 8-20-0
+Sister 4-20-0
+Player1 card [Hearts Number 5]  vs Player2 card [Hearts Number 7]
+Sister 3-22-0 wins round
+*******************
+Round 118
+Brother 7-20-0
+Sister 3-22-0
+Player1 card [Spades Number 5]  vs Player2 card [Spades Number 6]
+Sister 2-24-0 wins round
+*******************
+Round 119
+Brother 6-20-0
+Sister 2-24-0
+Player1 card [Clubs King 13]  vs Player2 card [Diamonds Number 2]
+Brother 5-22-0 wins round
+*******************
+Round 120
+Brother 5-22-0
+Sister 1-24-0
+Player1 card [Diamonds Number 6]  vs Player2 card [Clubs Number 2]
+Brother 4-24-0 wins round
+*******************
+Round 121
+Brother 4-24-0
+Sister 0-24-0
+Sister restarting with 24
+Player1 card [Diamonds Number 3]  vs Player2 card [Diamonds Ace 14]
+Sister 23-2-0 wins round
+*******************
+Round 122
+Brother 3-24-0
+Sister 23-2-0
+Player1 card [Clubs Number 6]  vs Player2 card [Hearts Number 9]
+Sister 22-4-0 wins round
+*******************
+Round 123
+Brother 2-24-0
+Sister 22-4-0
+Player1 card [Spades Number 8]  vs Player2 card [Spades Ace 14]
+Sister 21-6-0 wins round
+*******************
+Round 124
+Brother 1-24-0
+Sister 21-6-0
+Player1 card [Spades Number 7]  vs Player2 card [Hearts Jack 11]
+Sister 20-8-0 wins round
+*******************
+Round 125
+Brother 0-24-0
+Sister 20-8-0
+Brother restarting with 24
+Player1 card [Clubs Number 9]  vs Player2 card [Diamonds Number 9]
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Clubs Number 9
+Spades Number 2
+Spades Number 3
+Spades King 13
+===================
+===================
+[War] Sister size 4
+Diamonds Number 9
+Spades Number 5
+Clubs Number 3
+Hearts Number 5
+===================
+*******************
+Round 126
+Brother 20-0-4
+Sister 16-8-4
+Player1 card [Diamonds Number 7]  vs Player2 card [Hearts King 13]
+Sister 15-18-0 wins round
+*******************
+Round 127
+Brother 19-0-0
+Sister 15-18-0
+Player1 card [Hearts Number 2]  vs Player2 card [Diamonds Jack 11]
+Sister 14-20-0 wins round
+*******************
+Round 128
+Brother 18-0-0
+Sister 14-20-0
+Player1 card [Spades Number 10]  vs Player2 card [Diamonds Number 4]
+Brother 17-2-0 wins round
+*******************
+Round 129
+Brother 17-2-0
+Sister 13-20-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Spades Jack 11]
+Brother 16-4-0 wins round
+*******************
+Round 130
+Brother 16-4-0
+Sister 12-20-0
+Player1 card [Hearts Number 3]  vs Player2 card [Diamonds Queen 12]
+Sister 11-22-0 wins round
+*******************
+Round 131
+Brother 15-4-0
+Sister 11-22-0
+Player1 card [Hearts Number 6]  vs Player2 card [Hearts Number 8]
+Sister 10-24-0 wins round
+*******************
+Round 132
+Brother 14-4-0
+Sister 10-24-0
+Player1 card [Clubs Number 10]  vs Player2 card [Clubs Number 7]
+Brother 13-6-0 wins round
+*******************
+Round 133
+Brother 13-6-0
+Sister 9-24-0
+Player1 card [Clubs Number 5]  vs Player2 card [Spades Number 6]
+Sister 8-26-0 wins round
+*******************
+Round 134
+Brother 12-6-0
+Sister 8-26-0
+Player1 card [Diamonds Number 8]  vs Player2 card [Hearts Number 7]
+Brother 11-8-0 wins round
+*******************
+Round 135
+Brother 11-8-0
+Sister 7-26-0
+Player1 card [Hearts Number 10]  vs Player2 card [Diamonds King 13]
+Sister 6-28-0 wins round
+*******************
+Round 136
+Brother 10-8-0
+Sister 6-28-0
+Player1 card [Diamonds Number 5]  vs Player2 card [Diamonds Number 10]
+Sister 5-30-0 wins round
+*******************
+Round 137
+Brother 9-8-0
+Sister 5-30-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Hearts Queen 12]
+Brother 8-10-0 wins round
+*******************
+Round 138
+Brother 8-10-0
+Sister 4-30-0
+Player1 card [Clubs Number 8]  vs Player2 card [Spades Number 4]
+Brother 7-12-0 wins round
+*******************
+Round 139
+Brother 7-12-0
+Sister 3-30-0
+Player1 card [Clubs Number 4]  vs Player2 card [Clubs Queen 12]
+Sister 2-32-0 wins round
+*******************
+Round 140
+Brother 6-12-0
+Sister 2-32-0
+Player1 card [Spades Queen 12]  vs Player2 card [Hearts Number 4]
+Brother 5-14-0 wins round
+*******************
+Round 141
+Brother 5-14-0
+Sister 1-32-0
+Player1 card [Clubs King 13]  vs Player2 card [Spades Number 9]
+Brother 4-16-0 wins round
+*******************
+Round 142
+Brother 4-16-0
+Sister 0-32-0
+Sister restarting with 32
+Player1 card [Clubs Jack 11]  vs Player2 card [Diamonds Number 9]
+Brother 3-18-0 wins round
+*******************
+Round 143
+Brother 3-18-0
+Sister 31-0-0
+Player1 card [Diamonds Number 2]  vs Player2 card [Spades Number 8]
+Sister 30-2-0 wins round
+*******************
+Round 144
+Brother 2-18-0
+Sister 30-2-0
+Player1 card [Clubs Number 2]  vs Player2 card [Spades King 13]
+Sister 29-4-0 wins round
+*******************
+Round 145
+Brother 1-18-0
+Sister 29-4-0
+Player1 card [Diamonds Number 6]  vs Player2 card [Diamonds Queen 12]
+Sister 28-6-0 wins round
+*******************
+Round 146
+Brother 0-18-0
+Sister 28-6-0
+Brother restarting with 18
+Player1 card [Diamonds Number 4]  vs Player2 card [Diamonds Number 5]
+Sister 27-8-0 wins round
+*******************
+Round 147
+Brother 17-0-0
+Sister 27-8-0
+Player1 card [Hearts Queen 12]  vs Player2 card [Hearts Number 2]
+Brother 16-2-0 wins round
+*******************
+Round 148
+Brother 16-2-0
+Sister 26-8-0
+Player1 card [Clubs Number 10]  vs Player2 card [Diamonds King 13]
+Sister 25-10-0 wins round
+*******************
+Round 149
+Brother 15-2-0
+Sister 25-10-0
+Player1 card [Diamonds Number 9]  vs Player2 card [Spades Number 5]
+Brother 14-4-0 wins round
+*******************
+Round 150
+Brother 14-4-0
+Sister 24-10-0
+Player1 card [Hearts Number 7]  vs Player2 card [Clubs Number 5]
+Brother 13-6-0 wins round
+*******************
+Round 151
+Brother 13-6-0
+Sister 23-10-0
+Player1 card [Clubs Jack 11]  vs Player2 card [Clubs Number 6]
+Brother 12-8-0 wins round
+*******************
+Round 152
+Brother 12-8-0
+Sister 22-10-0
+Player1 card [Spades Number 4]  vs Player2 card [Hearts Number 8]
+Sister 21-12-0 wins round
+*******************
+Round 153
+Brother 11-8-0
+Sister 21-12-0
+Player1 card [Clubs Number 8]  vs Player2 card [Spades Number 2]
+Brother 10-10-0 wins round
+*******************
+Round 154
+Brother 10-10-0
+Sister 20-12-0
+Player1 card [Spades Jack 11]  vs Player2 card [Clubs Queen 12]
+Sister 19-14-0 wins round
+*******************
+Round 155
+Brother 9-10-0
+Sister 19-14-0
+Player1 card [Clubs King 13]  vs Player2 card [Diamonds Ace 14]
+Sister 18-16-0 wins round
+*******************
+Round 156
+Brother 8-10-0
+Sister 18-16-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Hearts Number 5]
+Brother 7-12-0 wins round
+*******************
+Round 157
+Brother 7-12-0
+Sister 17-16-0
+Player1 card [Hearts Number 4]  vs Player2 card [Diamonds Jack 11]
+Sister 16-18-0 wins round
+*******************
+Round 158
+Brother 6-12-0
+Sister 16-18-0
+Player1 card [Spades Queen 12]  vs Player2 card [Spades Number 6]
+Brother 5-14-0 wins round
+*******************
+Round 159
+Brother 5-14-0
+Sister 15-18-0
+Player1 card [Clubs Number 7]  vs Player2 card [Diamonds Number 7]
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Clubs Number 7
+Hearts Ace 14
+Diamonds Number 8
+Spades Number 10
+===================
+===================
+[War] Sister size 4
+Diamonds Number 7
+Diamonds Number 3
+Spades Number 3
+Clubs Number 4
+===================
+*******************
+Round 160
+Brother 1-14-4
+Sister 11-18-4
+Player1 card [Spades Number 9]  vs Player2 card [Hearts King 13]
+Sister 10-28-0 wins round
+*******************
+Round 161
+Brother 0-14-0
+Sister 10-28-0
+Brother restarting with 14
+Player1 card [Clubs Ace 14]  vs Player2 card [Hearts Number 10]
+Brother 13-2-0 wins round
+*******************
+Round 162
+Brother 13-2-0
+Sister 9-28-0
+Player1 card [Spades Queen 12]  vs Player2 card [Hearts Number 6]
+Brother 12-4-0 wins round
+*******************
+Round 163
+Brother 12-4-0
+Sister 8-28-0
+Player1 card [Clubs Number 8]  vs Player2 card [Hearts Number 9]
+Sister 7-30-0 wins round
+*******************
+Round 164
+Brother 11-4-0
+Sister 7-30-0
+Player1 card [Spades Number 5]  vs Player2 card [Spades Ace 14]
+Sister 6-32-0 wins round
+*******************
+Round 165
+Brother 10-4-0
+Sister 6-32-0
+Player1 card [Clubs Number 6]  vs Player2 card [Clubs Number 3]
+Brother 9-6-0 wins round
+*******************
+Round 166
+Brother 9-6-0
+Sister 5-32-0
+Player1 card [Diamonds Number 9]  vs Player2 card [Hearts Jack 11]
+Sister 4-34-0 wins round
+*******************
+Round 167
+Brother 8-6-0
+Sister 4-34-0
+Player1 card [Spades Number 2]  vs Player2 card [Hearts Number 3]
+Sister 3-36-0 wins round
+*******************
+Round 168
+Brother 7-6-0
+Sister 3-36-0
+Player1 card [Hearts Number 2]  vs Player2 card [Diamonds Number 10]
+Sister 2-38-0 wins round
+*******************
+Round 169
+Brother 6-6-0
+Sister 2-38-0
+Player1 card [Spades Number 6]  vs Player2 card [Clubs Number 9]
+Sister 1-40-0 wins round
+*******************
+Round 170
+Brother 5-6-0
+Sister 1-40-0
+Player1 card [Hearts Number 7]  vs Player2 card [Spades Number 7]
+Sister restarting with 40
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Hearts Number 7
+Hearts Queen 12
+Clubs Number 5
+Clubs Jack 11
+===================
+===================
+[War] Sister size 4
+Spades Number 7
+Diamonds Jack 11
+Clubs Queen 12
+Diamonds King 13
+===================
+*******************
+Round 171
+Brother 1-6-4
+Sister 37-0-4
+Player1 card [Hearts Number 5]  vs Player2 card [Diamonds Number 10]
+Sister 36-10-0 wins round
+*******************
+Round 172
+Brother 0-6-0
+Sister 36-10-0
+Brother restarting with 6
+Player1 card [Hearts Number 6]  vs Player2 card [Hearts Jack 11]
+Sister 35-12-0 wins round
+*******************
+Round 173
+Brother 5-0-0
+Sister 35-12-0
+Player1 card [Hearts Number 10]  vs Player2 card [Spades Jack 11]
+Sister 34-14-0 wins round
+*******************
+Round 174
+Brother 4-0-0
+Sister 34-14-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Hearts Number 2]
+Brother 3-2-0 wins round
+*******************
+Round 175
+Brother 3-2-0
+Sister 33-14-0
+Player1 card [Clubs Number 6]  vs Player2 card [Spades Number 10]
+Sister 32-16-0 wins round
+*******************
+Round 176
+Brother 2-2-0
+Sister 32-16-0
+Player1 card [Spades Queen 12]  vs Player2 card [Diamonds Number 5]
+Brother 1-4-0 wins round
+*******************
+Round 177
+Brother 1-4-0
+Sister 31-16-0
+Player1 card [Clubs Number 3]  vs Player2 card [Diamonds Number 2]
+Brother 0-6-0 wins round
+*******************
+Round 178
+Brother 0-6-0
+Sister 30-16-0
+Brother restarting with 6
+Player1 card [Clubs Ace 14]  vs Player2 card [Hearts King 13]
+Brother 5-2-0 wins round
+*******************
+Round 179
+Brother 5-2-0
+Sister 29-16-0
+Player1 card [Diamonds Number 2]  vs Player2 card [Hearts Number 3]
+Sister 28-18-0 wins round
+*******************
+Round 180
+Brother 4-2-0
+Sister 28-18-0
+Player1 card [Spades Queen 12]  vs Player2 card [Hearts Number 4]
+Brother 3-4-0 wins round
+*******************
+Round 181
+Brother 3-4-0
+Sister 27-18-0
+Player1 card [Diamonds Number 5]  vs Player2 card [Clubs King 13]
+Sister 26-20-0 wins round
+*******************
+Round 182
+Brother 2-4-0
+Sister 26-20-0
+Player1 card [Hearts Number 2]  vs Player2 card [Spades Number 4]
+Sister 25-22-0 wins round
+*******************
+Round 183
+Brother 1-4-0
+Sister 25-22-0
+Player1 card [Clubs Number 3]  vs Player2 card [Spades Ace 14]
+Sister 24-24-0 wins round
+*******************
+Round 184
+Brother 0-4-0
+Sister 24-24-0
+Brother restarting with 4
+Player1 card [Hearts Number 4]  vs Player2 card [Spades Number 2]
+Brother 3-2-0 wins round
+*******************
+Round 185
+Brother 3-2-0
+Sister 23-24-0
+Player1 card [Spades Queen 12]  vs Player2 card [Clubs Number 4]
+Brother 2-4-0 wins round
+*******************
+Round 186
+Brother 2-4-0
+Sister 22-24-0
+Player1 card [Hearts King 13]  vs Player2 card [Diamonds Queen 12]
+Brother 1-6-0 wins round
+*******************
+Round 187
+Brother 1-6-0
+Sister 21-24-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Diamonds Number 6]
+Brother 0-8-0 wins round
+*******************
+Round 188
+Brother 0-8-0
+Sister 20-24-0
+Brother restarting with 8
+Player1 card [Spades Queen 12]  vs Player2 card [Spades Number 8]
+Brother 7-2-0 wins round
+*******************
+Round 189
+Brother 7-2-0
+Sister 19-24-0
+Player1 card [Diamonds Queen 12]  vs Player2 card [Hearts Number 9]
+Brother 6-4-0 wins round
+*******************
+Round 190
+Brother 6-4-0
+Sister 18-24-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Diamonds Number 4]
+Brother 5-6-0 wins round
+*******************
+Round 191
+Brother 5-6-0
+Sister 17-24-0
+Player1 card [Clubs Number 4]  vs Player2 card [Clubs Number 10]
+Sister 16-26-0 wins round
+*******************
+Round 192
+Brother 4-6-0
+Sister 16-26-0
+Player1 card [Hearts Number 4]  vs Player2 card [Diamonds Ace 14]
+Sister 15-28-0 wins round
+*******************
+Round 193
+Brother 3-6-0
+Sister 15-28-0
+Player1 card [Spades Number 2]  vs Player2 card [Diamonds Number 8]
+Sister 14-30-0 wins round
+*******************
+Round 194
+Brother 2-6-0
+Sister 14-30-0
+Player1 card [Hearts King 13]  vs Player2 card [Clubs Number 9]
+Brother 1-8-0 wins round
+*******************
+Round 195
+Brother 1-8-0
+Sister 13-30-0
+Player1 card [Diamonds Number 6]  vs Player2 card [Spades Number 9]
+Sister 12-32-0 wins round
+*******************
+Round 196
+Brother 0-8-0
+Sister 12-32-0
+Brother restarting with 8
+Player1 card [Hearts Number 9]  vs Player2 card [Hearts Number 8]
+Brother 7-2-0 wins round
+*******************
+Round 197
+Brother 7-2-0
+Sister 11-32-0
+Player1 card [Hearts King 13]  vs Player2 card [Clubs Number 7]
+Brother 6-4-0 wins round
+*******************
+Round 198
+Brother 6-4-0
+Sister 10-32-0
+Player1 card [Diamonds Number 4]  vs Player2 card [Spades Number 3]
+Brother 5-6-0 wins round
+*******************
+Round 199
+Brother 5-6-0
+Sister 9-32-0
+Player1 card [Clubs Number 9]  vs Player2 card [Hearts Ace 14]
+Sister 8-34-0 wins round
+*******************
+Round 200
+Brother 4-6-0
+Sister 8-34-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Spades Number 6]
+Brother 3-8-0 wins round
+*******************
+Round 201
+Brother 3-8-0
+Sister 7-34-0
+Player1 card [Spades Queen 12]  vs Player2 card [Spades King 13]
+Sister 6-36-0 wins round
+*******************
+Round 202
+Brother 2-8-0
+Sister 6-36-0
+Player1 card [Diamonds Queen 12]  vs Player2 card [Diamonds Number 3]
+Brother 1-10-0 wins round
+*******************
+Round 203
+Brother 1-10-0
+Sister 5-36-0
+Player1 card [Spades Number 8]  vs Player2 card [Clubs Number 8]
+Brother restarting with 10
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Spades Number 8
+Diamonds Number 3
+Spades Number 6
+Spades Number 3
+===================
+===================
+[War] Sister size 4
+Clubs Number 8
+Diamonds Number 9
+Clubs Number 2
+Spades Number 5
+===================
+*******************
+Round 204
+Brother 7-0-4
+Sister 1-36-4
+Player1 card [Diamonds Number 4]  vs Player2 card [Diamonds Number 7]
+Sister 0-46-0 wins round
+*******************
+Round 205
+Brother 6-0-0
+Sister 0-46-0
+Sister restarting with 46
+Player1 card [Hearts Number 9]  vs Player2 card [Clubs Number 5]
+Brother 5-2-0 wins round
+*******************
+Round 206
+Brother 5-2-0
+Sister 45-0-0
+Player1 card [Hearts King 13]  vs Player2 card [Spades Jack 11]
+Brother 4-4-0 wins round
+*******************
+Round 207
+Brother 4-4-0
+Sister 44-0-0
+Player1 card [Clubs Number 7]  vs Player2 card [Hearts Number 5]
+Brother 3-6-0 wins round
+*******************
+Round 208
+Brother 3-6-0
+Sister 43-0-0
+Player1 card [Diamonds Queen 12]  vs Player2 card [Diamonds Number 3]
+Brother 2-8-0 wins round
+*******************
+Round 209
+Brother 2-8-0
+Sister 42-0-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Clubs Number 9]
+Brother 1-10-0 wins round
+*******************
+Round 210
+Brother 1-10-0
+Sister 41-0-0
+Player1 card [Hearts Number 8]  vs Player2 card [Spades King 13]
+Sister 40-2-0 wins round
+*******************
+Round 211
+Brother 0-10-0
+Sister 40-2-0
+Brother restarting with 10
+Player1 card [Diamonds Number 3]  vs Player2 card [Spades Number 6]
+Sister 39-4-0 wins round
+*******************
+Round 212
+Brother 9-0-0
+Sister 39-4-0
+Player1 card [Spades Jack 11]  vs Player2 card [Spades Number 7]
+Brother 8-2-0 wins round
+*******************
+Round 213
+Brother 8-2-0
+Sister 38-4-0
+Player1 card [Hearts Number 5]  vs Player2 card [Spades Number 8]
+Sister 37-6-0 wins round
+*******************
+Round 214
+Brother 7-2-0
+Sister 37-6-0
+Player1 card [Clubs Number 9]  vs Player2 card [Spades Number 3]
+Brother 6-4-0 wins round
+*******************
+Round 215
+Brother 6-4-0
+Sister 36-6-0
+Player1 card [Hearts King 13]  vs Player2 card [Hearts Number 6]
+Brother 5-6-0 wins round
+*******************
+Round 216
+Brother 5-6-0
+Sister 35-6-0
+Player1 card [Clubs Number 7]  vs Player2 card [Diamonds Jack 11]
+Sister 34-8-0 wins round
+*******************
+Round 217
+Brother 4-6-0
+Sister 34-8-0
+Player1 card [Clubs Number 5]  vs Player2 card [Hearts Queen 12]
+Sister 33-10-0 wins round
+*******************
+Round 218
+Brother 3-6-0
+Sister 33-10-0
+Player1 card [Hearts Number 9]  vs Player2 card [Hearts Ace 14]
+Sister 32-12-0 wins round
+*******************
+Round 219
+Brother 2-6-0
+Sister 32-12-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Diamonds Number 5]
+Brother 1-8-0 wins round
+*******************
+Round 220
+Brother 1-8-0
+Sister 31-12-0
+Player1 card [Diamonds Queen 12]  vs Player2 card [Spades Number 2]
+Brother 0-10-0 wins round
+*******************
+Round 221
+Brother 0-10-0
+Sister 30-12-0
+Brother restarting with 10
+Player1 card [Hearts Number 6]  vs Player2 card [Clubs Number 10]
+Sister 29-14-0 wins round
+*******************
+Round 222
+Brother 9-0-0
+Sister 29-14-0
+Player1 card [Spades Number 2]  vs Player2 card [Clubs Number 4]
+Sister 28-16-0 wins round
+*******************
+Round 223
+Brother 8-0-0
+Sister 28-16-0
+Player1 card [Spades Number 3]  vs Player2 card [Clubs Jack 11]
+Sister 27-18-0 wins round
+*******************
+Round 224
+Brother 7-0-0
+Sister 27-18-0
+Player1 card [Diamonds Number 5]  vs Player2 card [Diamonds Number 2]
+Brother 6-2-0 wins round
+*******************
+Round 225
+Brother 6-2-0
+Sister 26-18-0
+Player1 card [Spades Number 7]  vs Player2 card [Clubs Number 2]
+Brother 5-4-0 wins round
+*******************
+Round 226
+Brother 5-4-0
+Sister 25-18-0
+Player1 card [Clubs Number 9]  vs Player2 card [Spades Number 10]
+Sister 24-20-0 wins round
+*******************
+Round 227
+Brother 4-4-0
+Sister 24-20-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Spades Number 9]
+Brother 3-6-0 wins round
+*******************
+Round 228
+Brother 3-6-0
+Sister 23-20-0
+Player1 card [Spades Jack 11]  vs Player2 card [Spades Queen 12]
+Sister 22-22-0 wins round
+*******************
+Round 229
+Brother 2-6-0
+Sister 22-22-0
+Player1 card [Diamonds Queen 12]  vs Player2 card [Diamonds Number 7]
+Brother 1-8-0 wins round
+*******************
+Round 230
+Brother 1-8-0
+Sister 21-22-0
+Player1 card [Hearts King 13]  vs Player2 card [Spades Ace 14]
+Sister 20-24-0 wins round
+*******************
+Round 231
+Brother 0-8-0
+Sister 20-24-0
+Brother restarting with 8
+Player1 card [Diamonds Number 5]  vs Player2 card [Hearts Jack 11]
+Sister 19-26-0 wins round
+*******************
+Round 232
+Brother 7-0-0
+Sister 19-26-0
+Player1 card [Spades Number 9]  vs Player2 card [Diamonds Number 6]
+Brother 6-2-0 wins round
+*******************
+Round 233
+Brother 6-2-0
+Sister 18-26-0
+Player1 card [Diamonds Queen 12]  vs Player2 card [Diamonds Number 8]
+Brother 5-4-0 wins round
+*******************
+Round 234
+Brother 5-4-0
+Sister 17-26-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Diamonds King 13]
+Brother 4-6-0 wins round
+*******************
+Round 235
+Brother 4-6-0
+Sister 16-26-0
+Player1 card [Diamonds Number 2]  vs Player2 card [Hearts Number 2]
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Diamonds Number 2
+Clubs Number 2
+Spades Number 7
+Diamonds Number 7
+===================
+===================
+[War] Sister size 4
+Hearts Number 2
+Spades Number 5
+Spades Number 4
+Hearts Number 4
+===================
+*******************
+Round 236
+Brother 0-6-4
+Sister 12-26-4
+Brother restarting with 6
+Player1 card [Diamonds Number 6]  vs Player2 card [Hearts Number 7]
+Sister 11-36-0 wins round
+*******************
+Round 237
+Brother 5-0-0
+Sister 11-36-0
+Player1 card [Diamonds Queen 12]  vs Player2 card [Clubs Number 8]
+Brother 4-2-0 wins round
+*******************
+Round 238
+Brother 4-2-0
+Sister 10-36-0
+Player1 card [Spades Number 9]  vs Player2 card [Hearts Number 10]
+Sister 9-38-0 wins round
+*******************
+Round 239
+Brother 3-2-0
+Sister 9-38-0
+Player1 card [Diamonds King 13]  vs Player2 card [Hearts Number 3]
+Brother 2-4-0 wins round
+*******************
+Round 240
+Brother 2-4-0
+Sister 8-38-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Clubs Queen 12]
+Brother 1-6-0 wins round
+*******************
+Round 241
+Brother 1-6-0
+Sister 7-38-0
+Player1 card [Diamonds Number 8]  vs Player2 card [Clubs Number 3]
+Brother 0-8-0 wins round
+*******************
+Round 242
+Brother 0-8-0
+Sister 6-38-0
+Brother restarting with 8
+Player1 card [Diamonds Queen 12]  vs Player2 card [Clubs King 13]
+Sister 5-40-0 wins round
+*******************
+Round 243
+Brother 7-0-0
+Sister 5-40-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Diamonds Number 4]
+Brother 6-2-0 wins round
+*******************
+Round 244
+Brother 6-2-0
+Sister 4-40-0
+Player1 card [Clubs Number 3]  vs Player2 card [Diamonds Ace 14]
+Sister 3-42-0 wins round
+*******************
+Round 245
+Brother 5-2-0
+Sister 3-42-0
+Player1 card [Clubs Queen 12]  vs Player2 card [Diamonds Number 10]
+Brother 4-4-0 wins round
+*******************
+Round 246
+Brother 4-4-0
+Sister 2-42-0
+Player1 card [Clubs Number 8]  vs Player2 card [Clubs Number 6]
+Brother 3-6-0 wins round
+*******************
+Round 247
+Brother 3-6-0
+Sister 1-42-0
+Player1 card [Diamonds King 13]  vs Player2 card [Diamonds Number 9]
+Brother 2-8-0 wins round
+*******************
+Round 248
+Brother 2-8-0
+Sister 0-42-0
+Sister restarting with 42
+Player1 card [Diamonds Number 8]  vs Player2 card [Spades Jack 11]
+Sister 41-2-0 wins round
+*******************
+Round 249
+Brother 1-8-0
+Sister 41-2-0
+Player1 card [Hearts Number 3]  vs Player2 card [Clubs Number 5]
+Sister 40-4-0 wins round
+*******************
+Round 250
+Brother 0-8-0
+Sister 40-4-0
+Brother restarting with 8
+Player1 card [Clubs Number 8]  vs Player2 card [Diamonds Number 6]
+Brother 7-2-0 wins round
+*******************
+Round 251
+Brother 7-2-0
+Sister 39-4-0
+Player1 card [Diamonds King 13]  vs Player2 card [Spades Number 7]
+Brother 6-4-0 wins round
+*******************
+Round 252
+Brother 6-4-0
+Sister 38-4-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Hearts Ace 14]
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Clubs Ace 14
+Diamonds Number 4
+Diamonds Number 9
+Diamonds Number 10
+===================
+===================
+[War] Sister size 4
+Hearts Ace 14
+Spades Number 8
+Clubs Number 2
+Diamonds Ace 14
+===================
+*******************
+Round 253
+Brother 2-4-4
+Sister 34-4-4
+Player1 card [Clubs Number 6]  vs Player2 card [Clubs Number 3]
+Brother 1-14-0 wins round
+*******************
+Round 254
+Brother 1-14-0
+Sister 33-4-0
+Player1 card [Clubs Queen 12]  vs Player2 card [Clubs Number 4]
+Brother 0-16-0 wins round
+*******************
+Round 255
+Brother 0-16-0
+Sister 32-4-0
+Brother restarting with 16
+Player1 card [Spades Number 8]  vs Player2 card [Hearts Number 6]
+Brother 15-2-0 wins round
+*******************
+Round 256
+Brother 15-2-0
+Sister 31-4-0
+Player1 card [Spades Number 7]  vs Player2 card [Clubs Number 7]
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Spades Number 7
+Diamonds Number 6
+Diamonds Number 9
+Clubs Number 3
+===================
+===================
+[War] Sister size 4
+Clubs Number 7
+Hearts Number 4
+Diamonds Queen 12
+Clubs Number 9
+===================
+*******************
+Round 257
+Brother 11-2-4
+Sister 27-4-4
+Player1 card [Clubs Number 6]  vs Player2 card [Hearts Number 8]
+Sister 26-14-0 wins round
+*******************
+Round 258
+Brother 10-2-0
+Sister 26-14-0
+Player1 card [Clubs Number 8]  vs Player2 card [Hearts Number 5]
+Brother 9-4-0 wins round
+*******************
+Round 259
+Brother 9-4-0
+Sister 25-14-0
+Player1 card [Clubs Number 4]  vs Player2 card [Hearts Number 7]
+Sister 24-16-0 wins round
+*******************
+Round 260
+Brother 8-4-0
+Sister 24-16-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Spades Number 10]
+Brother 7-6-0 wins round
+*******************
+Round 261
+Brother 7-6-0
+Sister 23-16-0
+Player1 card [Diamonds Number 10]  vs Player2 card [Diamonds Number 7]
+Brother 6-8-0 wins round
+*******************
+Round 262
+Brother 6-8-0
+Sister 22-16-0
+Player1 card [Diamonds King 13]  vs Player2 card [Diamonds Number 5]
+Brother 5-10-0 wins round
+*******************
+Round 263
+Brother 5-10-0
+Sister 21-16-0
+Player1 card [Clubs Queen 12]  vs Player2 card [Spades Number 4]
+Brother 4-12-0 wins round
+*******************
+Round 264
+Brother 4-12-0
+Sister 20-16-0
+Player1 card [Diamonds Number 4]  vs Player2 card [Hearts Jack 11]
+Sister 19-18-0 wins round
+*******************
+Round 265
+Brother 3-12-0
+Sister 19-18-0
+Player1 card [Diamonds Ace 14]  vs Player2 card [Clubs Jack 11]
+Brother 2-14-0 wins round
+*******************
+Round 266
+Brother 2-14-0
+Sister 18-18-0
+Player1 card [Clubs Number 2]  vs Player2 card [Spades King 13]
+Sister 17-20-0 wins round
+*******************
+Round 267
+Brother 1-14-0
+Sister 17-20-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Diamonds Number 2]
+Brother 0-16-0 wins round
+*******************
+Round 268
+Brother 0-16-0
+Sister 16-20-0
+Brother restarting with 16
+Player1 card [Hearts Ace 14]  vs Player2 card [Spades Number 2]
+Brother 15-2-0 wins round
+*******************
+Round 269
+Brother 15-2-0
+Sister 15-20-0
+Player1 card [Clubs Queen 12]  vs Player2 card [Spades Number 6]
+Brother 14-4-0 wins round
+*******************
+Round 270
+Brother 14-4-0
+Sister 14-20-0
+Player1 card [Hearts Number 5]  vs Player2 card [Hearts Number 9]
+Sister 13-22-0 wins round
+*******************
+Round 271
+Brother 13-4-0
+Sister 13-22-0
+Player1 card [Diamonds Number 2]  vs Player2 card [Spades Queen 12]
+Sister 12-24-0 wins round
+*******************
+Round 272
+Brother 12-4-0
+Sister 12-24-0
+Player1 card [Spades Number 4]  vs Player2 card [Clubs King 13]
+Sister 11-26-0 wins round
+*******************
+Round 273
+Brother 11-4-0
+Sister 11-26-0
+Player1 card [Diamonds Number 5]  vs Player2 card [Hearts Queen 12]
+Sister 10-28-0 wins round
+*******************
+Round 274
+Brother 10-4-0
+Sister 10-28-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Hearts Number 10]
+Brother 9-6-0 wins round
+*******************
+Round 275
+Brother 9-6-0
+Sister 9-28-0
+Player1 card [Diamonds Number 7]  vs Player2 card [Spades Number 5]
+Brother 8-8-0 wins round
+*******************
+Round 276
+Brother 8-8-0
+Sister 8-28-0
+Player1 card [Diamonds Ace 14]  vs Player2 card [Diamonds Number 3]
+Brother 7-10-0 wins round
+*******************
+Round 277
+Brother 7-10-0
+Sister 7-28-0
+Player1 card [Spades Number 10]  vs Player2 card [Hearts Number 2]
+Brother 6-12-0 wins round
+*******************
+Round 278
+Brother 6-12-0
+Sister 6-28-0
+Player1 card [Hearts Number 6]  vs Player2 card [Spades Number 3]
+Brother 5-14-0 wins round
+*******************
+Round 279
+Brother 5-14-0
+Sister 5-28-0
+Player1 card [Clubs Number 8]  vs Player2 card [Clubs Number 10]
+Sister 4-30-0 wins round
+*******************
+Round 280
+Brother 4-14-0
+Sister 4-30-0
+Player1 card [Spades Number 8]  vs Player2 card [Spades Ace 14]
+Sister 3-32-0 wins round
+*******************
+Round 281
+Brother 3-14-0
+Sister 3-32-0
+Player1 card [Diamonds Number 10]  vs Player2 card [Spades Number 9]
+Brother 2-16-0 wins round
+*******************
+Round 282
+Brother 2-16-0
+Sister 2-32-0
+Player1 card [Diamonds King 13]  vs Player2 card [Diamonds Jack 11]
+Brother 1-18-0 wins round
+*******************
+Round 283
+Brother 1-18-0
+Sister 1-32-0
+Player1 card [Clubs Jack 11]  vs Player2 card [Hearts King 13]
+Sister 0-34-0 wins round
+*******************
+Round 284
+Brother 0-18-0
+Sister 0-34-0
+Brother restarting with 18
+Sister restarting with 34
+Player1 card [Spades Number 6]  vs Player2 card [Clubs Number 2]
+Brother 17-2-0 wins round
+*******************
+Round 285
+Brother 17-2-0
+Sister 33-0-0
+Player1 card [Diamonds Number 7]  vs Player2 card [Spades Number 7]
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Diamonds Number 7
+Diamonds Ace 14
+Clubs Ace 14
+Diamonds Number 3
+===================
+===================
+[War] Sister size 4
+Spades Number 7
+Hearts Number 4
+Clubs Number 6
+Diamonds Number 4
+===================
+*******************
+Round 286
+Brother 13-2-4
+Sister 29-0-4
+Player1 card [Diamonds Jack 11]  vs Player2 card [Hearts Number 8]
+Brother 12-12-0 wins round
+*******************
+Round 287
+Brother 12-12-0
+Sister 28-0-0
+Player1 card [Spades Number 5]  vs Player2 card [Clubs Number 7]
+Sister 27-2-0 wins round
+*******************
+Round 288
+Brother 11-12-0
+Sister 27-2-0
+Player1 card [Spades Number 10]  vs Player2 card [Clubs Number 10]
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Spades Number 10
+Hearts Number 10
+Diamonds King 13
+Hearts Number 2
+===================
+===================
+[War] Sister size 4
+Clubs Number 10
+Diamonds Number 9
+Hearts Number 9
+Hearts Number 5
+===================
+*******************
+Round 289
+Brother 7-12-4
+Sister 23-2-4
+Player1 card [Spades Number 2]  vs Player2 card [Clubs King 13]
+Sister 22-12-0 wins round
+*******************
+Round 290
+Brother 6-12-0
+Sister 22-12-0
+Player1 card [Hearts Number 6]  vs Player2 card [Diamonds Queen 12]
+Sister 21-14-0 wins round
+*******************
+Round 291
+Brother 5-12-0
+Sister 21-14-0
+Player1 card [Spades Number 3]  vs Player2 card [Diamonds Number 8]
+Sister 20-16-0 wins round
+*******************
+Round 292
+Brother 4-12-0
+Sister 20-16-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Clubs Number 9]
+Brother 3-14-0 wins round
+*******************
+Round 293
+Brother 3-14-0
+Sister 19-16-0
+Player1 card [Diamonds Number 10]  vs Player2 card [Spades Queen 12]
+Sister 18-18-0 wins round
+*******************
+Round 294
+Brother 2-14-0
+Sister 18-18-0
+Player1 card [Spades Number 9]  vs Player2 card [Diamonds Number 6]
+Brother 1-16-0 wins round
+*******************
+Round 295
+Brother 1-16-0
+Sister 17-18-0
+Player1 card [Clubs Queen 12]  vs Player2 card [Spades Number 4]
+Brother 0-18-0 wins round
+*******************
+Round 296
+Brother 0-18-0
+Sister 16-18-0
+Brother restarting with 18
+Player1 card [Diamonds Number 6]  vs Player2 card [Hearts Queen 12]
+Sister 15-20-0 wins round
+*******************
+Round 297
+Brother 17-0-0
+Sister 15-20-0
+Player1 card [Spades Number 4]  vs Player2 card [Clubs Number 3]
+Brother 16-2-0 wins round
+*******************
+Round 298
+Brother 16-2-0
+Sister 14-20-0
+Player1 card [Clubs Number 2]  vs Player2 card [Hearts Jack 11]
+Sister 13-22-0 wins round
+*******************
+Round 299
+Brother 15-2-0
+Sister 13-22-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Hearts Number 3]
+Brother 14-4-0 wins round
+*******************
+Round 300
+Brother 14-4-0
+Sister 12-22-0
+Player1 card [Spades Number 9]  vs Player2 card [Spades Number 8]
+Brother 13-6-0 wins round
+*******************
+Round 301
+Brother 13-6-0
+Sister 11-22-0
+Player1 card [Diamonds Number 4]  vs Player2 card [Spades Jack 11]
+Sister 10-24-0 wins round
+*******************
+Round 302
+Brother 12-6-0
+Sister 10-24-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Diamonds Number 2]
+Brother 11-8-0 wins round
+*******************
+Round 303
+Brother 11-8-0
+Sister 9-24-0
+Player1 card [Spades Number 7]  vs Player2 card [Spades Ace 14]
+Sister 8-26-0 wins round
+*******************
+Round 304
+Brother 10-8-0
+Sister 8-26-0
+Player1 card [Hearts Number 4]  vs Player2 card [Diamonds Number 5]
+Sister 7-28-0 wins round
+*******************
+Round 305
+Brother 9-8-0
+Sister 7-28-0
+Player1 card [Clubs Number 9]  vs Player2 card [Clubs Jack 11]
+Sister 6-30-0 wins round
+*******************
+Round 306
+Brother 8-8-0
+Sister 6-30-0
+Player1 card [Diamonds Number 3]  vs Player2 card [Hearts Number 7]
+Sister 5-32-0 wins round
+*******************
+Round 307
+Brother 7-8-0
+Sister 5-32-0
+Player1 card [Diamonds Number 7]  vs Player2 card [Hearts King 13]
+Sister 4-34-0 wins round
+*******************
+Round 308
+Brother 6-8-0
+Sister 4-34-0
+Player1 card [Diamonds Ace 14]  vs Player2 card [Clubs Number 8]
+Brother 5-10-0 wins round
+*******************
+Round 309
+Brother 5-10-0
+Sister 3-34-0
+Player1 card [Hearts Number 8]  vs Player2 card [Clubs Number 4]
+Brother 4-12-0 wins round
+*******************
+Round 310
+Brother 4-12-0
+Sister 2-34-0
+Player1 card [Spades Number 6]  vs Player2 card [Spades King 13]
+Sister 1-36-0 wins round
+*******************
+Round 311
+Brother 3-12-0
+Sister 1-36-0
+Player1 card [Diamonds Jack 11]  vs Player2 card [Clubs Number 5]
+Brother 2-14-0 wins round
+*******************
+Round 312
+Brother 2-14-0
+Sister 0-36-0
+Sister restarting with 36
+Player1 card [Clubs Number 6]  vs Player2 card [Hearts Number 2]
+Brother 1-16-0 wins round
+*******************
+Round 313
+Brother 1-16-0
+Sister 35-0-0
+Player1 card [Clubs Queen 12]  vs Player2 card [Diamonds Number 10]
+Brother 0-18-0 wins round
+*******************
+Round 314
+Brother 0-18-0
+Sister 34-0-0
+Brother restarting with 18
+Player1 card [Spades Number 8]  vs Player2 card [Diamonds Number 6]
+Brother 17-2-0 wins round
+*******************
+Round 315
+Brother 17-2-0
+Sister 33-0-0
+Player1 card [Clubs Number 4]  vs Player2 card [Hearts Number 9]
+Sister 32-2-0 wins round
+*******************
+Round 316
+Brother 16-2-0
+Sister 32-2-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Hearts Number 4]
+Brother 15-4-0 wins round
+*******************
+Round 317
+Brother 15-4-0
+Sister 31-2-0
+Player1 card [Clubs Number 5]  vs Player2 card [Spades Number 6]
+Sister 30-4-0 wins round
+*******************
+Round 318
+Brother 14-4-0
+Sister 30-4-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Clubs Number 10]
+Brother 13-6-0 wins round
+*******************
+Round 319
+Brother 13-6-0
+Sister 29-4-0
+Player1 card [Spades Number 9]  vs Player2 card [Diamonds Number 8]
+Brother 12-8-0 wins round
+*******************
+Round 320
+Brother 12-8-0
+Sister 28-4-0
+Player1 card [Diamonds Jack 11]  vs Player2 card [Spades Number 2]
+Brother 11-10-0 wins round
+*******************
+Round 321
+Brother 11-10-0
+Sister 27-4-0
+Player1 card [Clubs Number 8]  vs Player2 card [Clubs King 13]
+Sister 26-6-0 wins round
+*******************
+Round 322
+Brother 10-10-0
+Sister 26-6-0
+Player1 card [Hearts Number 3]  vs Player2 card [Spades Number 5]
+Sister 25-8-0 wins round
+*******************
+Round 323
+Brother 9-10-0
+Sister 25-8-0
+Player1 card [Hearts Number 2]  vs Player2 card [Hearts Number 7]
+Sister 24-10-0 wins round
+*******************
+Round 324
+Brother 8-10-0
+Sister 24-10-0
+Player1 card [Spades Number 4]  vs Player2 card [Hearts Queen 12]
+Sister 23-12-0 wins round
+*******************
+Round 325
+Brother 7-10-0
+Sister 23-12-0
+Player1 card [Diamonds Number 10]  vs Player2 card [Spades Number 3]
+Brother 6-12-0 wins round
+*******************
+Round 326
+Brother 6-12-0
+Sister 22-12-0
+Player1 card [Clubs Queen 12]  vs Player2 card [Clubs Number 9]
+Brother 5-14-0 wins round
+*******************
+Round 327
+Brother 5-14-0
+Sister 21-12-0
+Player1 card [Clubs Number 6]  vs Player2 card [Diamonds Number 9]
+Sister 20-14-0 wins round
+*******************
+Round 328
+Brother 4-14-0
+Sister 20-14-0
+Player1 card [Diamonds Number 2]  vs Player2 card [Spades Ace 14]
+Sister 19-16-0 wins round
+*******************
+Round 329
+Brother 3-14-0
+Sister 19-16-0
+Player1 card [Hearts Number 8]  vs Player2 card [Clubs Jack 11]
+Sister 18-18-0 wins round
+*******************
+Round 330
+Brother 2-14-0
+Sister 18-18-0
+Player1 card [Clubs Number 3]  vs Player2 card [Spades Queen 12]
+Sister 17-20-0 wins round
+*******************
+Round 331
+Brother 1-14-0
+Sister 17-20-0
+Player1 card [Diamonds Ace 14]  vs Player2 card [Diamonds Number 4]
+Brother 0-16-0 wins round
+*******************
+Round 332
+Brother 0-16-0
+Sister 16-20-0
+Brother restarting with 16
+Player1 card [Clubs Number 9]  vs Player2 card [Diamonds Number 5]
+Brother 15-2-0 wins round
+*******************
+Round 333
+Brother 15-2-0
+Sister 15-20-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Spades King 13]
+Brother 14-4-0 wins round
+*******************
+Round 334
+Brother 14-4-0
+Sister 14-20-0
+Player1 card [Spades Number 2]  vs Player2 card [Hearts Jack 11]
+Sister 13-22-0 wins round
+*******************
+Round 335
+Brother 13-4-0
+Sister 13-22-0
+Player1 card [Diamonds Jack 11]  vs Player2 card [Hearts Number 10]
+Brother 12-6-0 wins round
+*******************
+Round 336
+Brother 12-6-0
+Sister 12-22-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Clubs Number 7]
+Brother 11-8-0 wins round
+*******************
+Round 337
+Brother 11-8-0
+Sister 11-22-0
+Player1 card [Diamonds Number 10]  vs Player2 card [Hearts Number 6]
+Brother 10-10-0 wins round
+*******************
+Round 338
+Brother 10-10-0
+Sister 10-22-0
+Player1 card [Diamonds Ace 14]  vs Player2 card [Hearts Number 5]
+Brother 9-12-0 wins round
+*******************
+Round 339
+Brother 9-12-0
+Sister 9-22-0
+Player1 card [Spades Number 8]  vs Player2 card [Spades Jack 11]
+Sister 8-24-0 wins round
+*******************
+Round 340
+Brother 8-12-0
+Sister 8-24-0
+Player1 card [Spades Number 3]  vs Player2 card [Clubs Number 2]
+Brother 7-14-0 wins round
+*******************
+Round 341
+Brother 7-14-0
+Sister 7-24-0
+Player1 card [Spades Number 9]  vs Player2 card [Hearts King 13]
+Sister 6-26-0 wins round
+*******************
+Round 342
+Brother 6-14-0
+Sister 6-26-0
+Player1 card [Diamonds Number 4]  vs Player2 card [Diamonds King 13]
+Sister 5-28-0 wins round
+*******************
+Round 343
+Brother 5-14-0
+Sister 5-28-0
+Player1 card [Clubs Queen 12]  vs Player2 card [Diamonds Queen 12]
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Clubs Queen 12
+Hearts Number 4
+Diamonds Number 6
+Diamonds Number 8
+===================
+===================
+[War] Sister size 4
+Diamonds Queen 12
+Diamonds Number 7
+Spades Number 7
+Spades Number 10
+===================
+*******************
+Round 344
+Brother 1-14-4
+Sister 1-28-4
+Player1 card [Clubs Number 10]  vs Player2 card [Diamonds Number 3]
+Brother 0-24-0 wins round
+*******************
+Round 345
+Brother 0-24-0
+Sister 0-28-0
+Brother restarting with 24
+Sister restarting with 28
+Player1 card [Diamonds Number 10]  vs Player2 card [Hearts Number 3]
+Brother 23-2-0 wins round
+*******************
+Round 346
+Brother 23-2-0
+Sister 27-0-0
+Player1 card [Clubs Number 10]  vs Player2 card [Hearts Jack 11]
+Sister 26-2-0 wins round
+*******************
+Round 347
+Brother 22-2-0
+Sister 26-2-0
+Player1 card [Diamonds Number 6]  vs Player2 card [Hearts Queen 12]
+Sister 25-4-0 wins round
+*******************
+Round 348
+Brother 21-2-0
+Sister 25-4-0
+Player1 card [Clubs Number 2]  vs Player2 card [Clubs Number 6]
+Sister 24-6-0 wins round
+*******************
+Round 349
+Brother 20-2-0
+Sister 24-6-0
+Player1 card [Diamonds Jack 11]  vs Player2 card [Spades Number 2]
+Brother 19-4-0 wins round
+*******************
+Round 350
+Brother 19-4-0
+Sister 23-6-0
+Player1 card [Spades Number 3]  vs Player2 card [Diamonds King 13]
+Sister 22-8-0 wins round
+*******************
+Round 351
+Brother 18-4-0
+Sister 22-8-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Diamonds Number 4]
+Brother 17-6-0 wins round
+*******************
+Round 352
+Brother 17-6-0
+Sister 21-8-0
+Player1 card [Diamonds Number 5]  vs Player2 card [Clubs Number 4]
+Brother 16-8-0 wins round
+*******************
+Round 353
+Brother 16-8-0
+Sister 20-8-0
+Player1 card [Spades Number 10]  vs Player2 card [Hearts King 13]
+Sister 19-10-0 wins round
+*******************
+Round 354
+Brother 15-8-0
+Sister 19-10-0
+Player1 card [Diamonds Number 8]  vs Player2 card [Spades Number 9]
+Sister 18-12-0 wins round
+*******************
+Round 355
+Brother 14-8-0
+Sister 18-12-0
+Player1 card [Hearts Number 5]  vs Player2 card [Clubs King 13]
+Sister 17-14-0 wins round
+*******************
+Round 356
+Brother 13-8-0
+Sister 17-14-0
+Player1 card [Diamonds Ace 14]  vs Player2 card [Spades Number 4]
+Brother 12-10-0 wins round
+*******************
+Round 357
+Brother 12-10-0
+Sister 16-14-0
+Player1 card [Spades Number 7]  vs Player2 card [Hearts Number 2]
+Brother 11-12-0 wins round
+*******************
+Round 358
+Brother 11-12-0
+Sister 15-14-0
+Player1 card [Clubs Number 9]  vs Player2 card [Hearts Number 8]
+Brother 10-14-0 wins round
+*******************
+Round 359
+Brother 10-14-0
+Sister 14-14-0
+Player1 card [Clubs Queen 12]  vs Player2 card [Hearts Number 7]
+Brother 9-16-0 wins round
+*******************
+Round 360
+Brother 9-16-0
+Sister 13-14-0
+Player1 card [Hearts Number 6]  vs Player2 card [Clubs Number 3]
+Brother 8-18-0 wins round
+*******************
+Round 361
+Brother 8-18-0
+Sister 12-14-0
+Player1 card [Diamonds Queen 12]  vs Player2 card [Spades Ace 14]
+Sister 11-16-0 wins round
+*******************
+Round 362
+Brother 7-18-0
+Sister 11-16-0
+Player1 card [Diamonds Number 3]  vs Player2 card [Clubs Jack 11]
+Sister 10-18-0 wins round
+*******************
+Round 363
+Brother 6-18-0
+Sister 10-18-0
+Player1 card [Clubs Number 7]  vs Player2 card [Clubs Number 8]
+Sister 9-20-0 wins round
+*******************
+Round 364
+Brother 5-18-0
+Sister 9-20-0
+Player1 card [Diamonds Number 7]  vs Player2 card [Spades Number 5]
+Brother 4-20-0 wins round
+*******************
+Round 365
+Brother 4-20-0
+Sister 8-20-0
+Player1 card [Spades King 13]  vs Player2 card [Spades Number 8]
+Brother 3-22-0 wins round
+*******************
+Round 366
+Brother 3-22-0
+Sister 7-20-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Spades Number 6]
+Brother 2-24-0 wins round
+*******************
+Round 367
+Brother 2-24-0
+Sister 6-20-0
+Player1 card [Hearts Number 4]  vs Player2 card [Spades Queen 12]
+Sister 5-22-0 wins round
+*******************
+Round 368
+Brother 1-24-0
+Sister 5-22-0
+Player1 card [Hearts Number 10]  vs Player2 card [Clubs Number 5]
+Brother 0-26-0 wins round
+*******************
+Round 369
+Brother 0-26-0
+Sister 4-22-0
+Brother restarting with 26
+Player1 card [Spades Number 7]  vs Player2 card [Spades Jack 11]
+Sister 3-24-0 wins round
+*******************
+Round 370
+Brother 25-0-0
+Sister 3-24-0
+Player1 card [Spades King 13]  vs Player2 card [Diamonds Number 2]
+Brother 24-2-0 wins round
+*******************
+Round 371
+Brother 24-2-0
+Sister 2-24-0
+Player1 card [Clubs Number 5]  vs Player2 card [Diamonds Number 9]
+Sister 1-26-0 wins round
+*******************
+Round 372
+Brother 23-2-0
+Sister 1-26-0
+Player1 card [Spades Number 2]  vs Player2 card [Hearts Number 9]
+Sister 0-28-0 wins round
+*******************
+Round 373
+Brother 22-2-0
+Sister 0-28-0
+Sister restarting with 28
+Player1 card [Clubs Ace 14]  vs Player2 card [Spades Number 3]
+Brother 21-4-0 wins round
+*******************
+Round 374
+Brother 21-4-0
+Sister 27-0-0
+Player1 card [Clubs Number 9]  vs Player2 card [Spades Number 10]
+Sister 26-2-0 wins round
+*******************
+Round 375
+Brother 20-4-0
+Sister 26-2-0
+Player1 card [Clubs Number 4]  vs Player2 card [Diamonds Number 3]
+Brother 19-6-0 wins round
+*******************
+Round 376
+Brother 19-6-0
+Sister 25-2-0
+Player1 card [Hearts Number 2]  vs Player2 card [Diamonds Number 9]
+Sister 24-4-0 wins round
+*******************
+Round 377
+Brother 18-6-0
+Sister 24-4-0
+Player1 card [Hearts Number 10]  vs Player2 card [Spades Number 7]
+Brother 17-8-0 wins round
+*******************
+Round 378
+Brother 17-8-0
+Sister 23-4-0
+Player1 card [Hearts Number 7]  vs Player2 card [Diamonds Queen 12]
+Sister 22-6-0 wins round
+*******************
+Round 379
+Brother 16-8-0
+Sister 22-6-0
+Player1 card [Diamonds Number 4]  vs Player2 card [Clubs Number 2]
+Brother 15-10-0 wins round
+*******************
+Round 380
+Brother 15-10-0
+Sister 21-6-0
+Player1 card [Spades Number 8]  vs Player2 card [Diamonds Number 6]
+Brother 14-12-0 wins round
+*******************
+Round 381
+Brother 14-12-0
+Sister 20-6-0
+Player1 card [Spades Number 6]  vs Player2 card [Spades Jack 11]
+Sister 19-8-0 wins round
+*******************
+Round 382
+Brother 13-12-0
+Sister 19-8-0
+Player1 card [Hearts Number 8]  vs Player2 card [Hearts Jack 11]
+Sister 18-10-0 wins round
+*******************
+Round 383
+Brother 12-12-0
+Sister 18-10-0
+Player1 card [Diamonds Ace 14]  vs Player2 card [Hearts Number 5]
+Brother 11-14-0 wins round
+*******************
+Round 384
+Brother 11-14-0
+Sister 17-10-0
+Player1 card [Spades Number 5]  vs Player2 card [Diamonds King 13]
+Sister 16-12-0 wins round
+*******************
+Round 385
+Brother 10-14-0
+Sister 16-12-0
+Player1 card [Clubs Queen 12]  vs Player2 card [Hearts King 13]
+Sister 15-14-0 wins round
+*******************
+Round 386
+Brother 9-14-0
+Sister 15-14-0
+Player1 card [Diamonds Jack 11]  vs Player2 card [Hearts Number 9]
+Brother 8-16-0 wins round
+*******************
+Round 387
+Brother 8-16-0
+Sister 14-14-0
+Player1 card [Hearts Number 3]  vs Player2 card [Hearts Queen 12]
+Sister 13-16-0 wins round
+*******************
+Round 388
+Brother 7-16-0
+Sister 13-16-0
+Player1 card [Hearts Number 6]  vs Player2 card [Diamonds Number 8]
+Sister 12-18-0 wins round
+*******************
+Round 389
+Brother 6-16-0
+Sister 12-18-0
+Player1 card [Spades Number 4]  vs Player2 card [Clubs King 13]
+Sister 11-20-0 wins round
+*******************
+Round 390
+Brother 5-16-0
+Sister 11-20-0
+Player1 card [Diamonds Number 5]  vs Player2 card [Clubs Number 10]
+Sister 10-22-0 wins round
+*******************
+Round 391
+Brother 4-16-0
+Sister 10-22-0
+Player1 card [Diamonds Number 7]  vs Player2 card [Spades Number 2]
+Brother 3-18-0 wins round
+*******************
+Round 392
+Brother 3-18-0
+Sister 9-22-0
+Player1 card [Clubs Number 3]  vs Player2 card [Clubs Number 6]
+Sister 8-24-0 wins round
+*******************
+Round 393
+Brother 2-18-0
+Sister 8-24-0
+Player1 card [Diamonds Number 10]  vs Player2 card [Spades Queen 12]
+Sister 7-26-0 wins round
+*******************
+Round 394
+Brother 1-18-0
+Sister 7-26-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Spades Number 9]
+Brother 0-20-0 wins round
+*******************
+Round 395
+Brother 0-20-0
+Sister 6-26-0
+Brother restarting with 20
+Player1 card [Diamonds Jack 11]  vs Player2 card [Spades Ace 14]
+Sister 5-28-0 wins round
+*******************
+Round 396
+Brother 19-0-0
+Sister 5-28-0
+Player1 card [Diamonds Number 6]  vs Player2 card [Clubs Jack 11]
+Sister 4-30-0 wins round
+*******************
+Round 397
+Brother 18-0-0
+Sister 4-30-0
+Player1 card [Spades Number 7]  vs Player2 card [Clubs Number 5]
+Brother 17-2-0 wins round
+*******************
+Round 398
+Brother 17-2-0
+Sister 3-30-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Hearts Number 4]
+Brother 16-4-0 wins round
+*******************
+Round 399
+Brother 16-4-0
+Sister 2-30-0
+Player1 card [Diamonds Number 4]  vs Player2 card [Clubs Number 8]
+Sister 1-32-0 wins round
+*******************
+Round 400
+Brother 15-4-0
+Sister 1-32-0
+Player1 card [Diamonds Number 3]  vs Player2 card [Clubs Number 7]
+Sister 0-34-0 wins round
+*******************
+Round 401
+Brother 14-4-0
+Sister 0-34-0
+Sister restarting with 34
+Player1 card [Clubs Number 2]  vs Player2 card [Clubs Number 3]
+Sister 33-2-0 wins round
+*******************
+Round 402
+Brother 13-4-0
+Sister 33-2-0
+Player1 card [Diamonds Ace 14]  vs Player2 card [Hearts Number 7]
+Brother 12-6-0 wins round
+*******************
+Round 403
+Brother 12-6-0
+Sister 32-2-0
+Player1 card [Spades Number 3]  vs Player2 card [Spades Jack 11]
+Sister 31-4-0 wins round
+*******************
+Round 404
+Brother 11-6-0
+Sister 31-4-0
+Player1 card [Spades Number 8]  vs Player2 card [Diamonds Jack 11]
+Sister 30-6-0 wins round
+*******************
+Round 405
+Brother 10-6-0
+Sister 30-6-0
+Player1 card [Clubs Number 4]  vs Player2 card [Clubs Number 9]
+Sister 29-8-0 wins round
+*******************
+Round 406
+Brother 9-6-0
+Sister 29-8-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Diamonds Number 5]
+Brother 8-8-0 wins round
+*******************
+Round 407
+Brother 8-8-0
+Sister 28-8-0
+Player1 card [Hearts Number 10]  vs Player2 card [Clubs Jack 11]
+Sister 27-10-0 wins round
+*******************
+Round 408
+Brother 7-8-0
+Sister 27-10-0
+Player1 card [Spades King 13]  vs Player2 card [Spades Ace 14]
+Sister 26-12-0 wins round
+*******************
+Round 409
+Brother 6-8-0
+Sister 26-12-0
+Player1 card [Spades Number 2]  vs Player2 card [Hearts King 13]
+Sister 25-14-0 wins round
+*******************
+Round 410
+Brother 5-8-0
+Sister 25-14-0
+Player1 card [Spades Number 9]  vs Player2 card [Diamonds Number 3]
+Brother 4-10-0 wins round
+*******************
+Round 411
+Brother 4-10-0
+Sister 24-14-0
+Player1 card [Hearts Number 5]  vs Player2 card [Spades Number 10]
+Sister 23-16-0 wins round
+*******************
+Round 412
+Brother 3-10-0
+Sister 23-16-0
+Player1 card [Diamonds Number 7]  vs Player2 card [Clubs Number 6]
+Brother 2-12-0 wins round
+*******************
+Round 413
+Brother 2-12-0
+Sister 22-16-0
+Player1 card [Hearts Number 9]  vs Player2 card [Spades Queen 12]
+Sister 21-18-0 wins round
+*******************
+Round 414
+Brother 1-12-0
+Sister 21-18-0
+Player1 card [Diamonds Number 2]  vs Player2 card [Clubs Number 10]
+Sister 20-20-0 wins round
+*******************
+Round 415
+Brother 0-12-0
+Sister 20-20-0
+Brother restarting with 12
+Player1 card [Clubs Number 6]  vs Player2 card [Diamonds Number 8]
+Sister 19-22-0 wins round
+*******************
+Round 416
+Brother 11-0-0
+Sister 19-22-0
+Player1 card [Hearts Number 7]  vs Player2 card [Spades Number 5]
+Brother 10-2-0 wins round
+*******************
+Round 417
+Brother 10-2-0
+Sister 18-22-0
+Player1 card [Diamonds Number 5]  vs Player2 card [Diamonds Number 4]
+Brother 9-4-0 wins round
+*******************
+Round 418
+Brother 9-4-0
+Sister 17-22-0
+Player1 card [Hearts Number 4]  vs Player2 card [Hearts Number 6]
+Sister 16-24-0 wins round
+*******************
+Round 419
+Brother 8-4-0
+Sister 16-24-0
+Player1 card [Spades Number 7]  vs Player2 card [Hearts Number 2]
+Brother 7-6-0 wins round
+*******************
+Round 420
+Brother 7-6-0
+Sister 15-24-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Hearts Queen 12]
+Brother 6-8-0 wins round
+*******************
+Round 421
+Brother 6-8-0
+Sister 14-24-0
+Player1 card [Diamonds Number 7]  vs Player2 card [Diamonds Number 6]
+Brother 5-10-0 wins round
+*******************
+Round 422
+Brother 5-10-0
+Sister 13-24-0
+Player1 card [Diamonds Ace 14]  vs Player2 card [Clubs Number 7]
+Brother 4-12-0 wins round
+*******************
+Round 423
+Brother 4-12-0
+Sister 12-24-0
+Player1 card [Clubs Number 5]  vs Player2 card [Diamonds Number 9]
+Sister 11-26-0 wins round
+*******************
+Round 424
+Brother 3-12-0
+Sister 11-26-0
+Player1 card [Diamonds Number 3]  vs Player2 card [Clubs King 13]
+Sister 10-28-0 wins round
+*******************
+Round 425
+Brother 2-12-0
+Sister 10-28-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Diamonds Queen 12]
+Brother 1-14-0 wins round
+*******************
+Round 426
+Brother 1-14-0
+Sister 9-28-0
+Player1 card [Spades Number 9]  vs Player2 card [Spades Number 6]
+Brother 0-16-0 wins round
+*******************
+Round 427
+Brother 0-16-0
+Sister 8-28-0
+Brother restarting with 16
+Player1 card [Diamonds Number 6]  vs Player2 card [Diamonds Number 10]
+Sister 7-30-0 wins round
+*******************
+Round 428
+Brother 15-0-0
+Sister 7-30-0
+Player1 card [Hearts Queen 12]  vs Player2 card [Clubs Queen 12]
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Hearts Queen 12
+Spades Number 5
+Hearts Ace 14
+Diamonds Number 5
+===================
+===================
+[War] Sister size 4
+Clubs Queen 12
+Clubs Number 8
+Diamonds King 13
+Hearts Jack 11
+===================
+*******************
+Round 429
+Brother 11-0-4
+Sister 3-30-4
+Player1 card [Spades Number 6]  vs Player2 card [Hearts Number 3]
+Brother 10-10-0 wins round
+*******************
+Round 430
+Brother 10-10-0
+Sister 2-30-0
+Player1 card [Spades Number 7]  vs Player2 card [Hearts Number 8]
+Sister 1-32-0 wins round
+*******************
+Round 431
+Brother 9-10-0
+Sister 1-32-0
+Player1 card [Diamonds Queen 12]  vs Player2 card [Spades Number 4]
+Brother 8-12-0 wins round
+*******************
+Round 432
+Brother 8-12-0
+Sister 0-32-0
+Sister restarting with 32
+Player1 card [Clubs Number 7]  vs Player2 card [Hearts Number 9]
+Sister 31-2-0 wins round
+*******************
+Round 433
+Brother 7-12-0
+Sister 31-2-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Hearts Number 8]
+Brother 6-14-0 wins round
+*******************
+Round 434
+Brother 6-14-0
+Sister 30-2-0
+Player1 card [Diamonds Number 7]  vs Player2 card [Hearts Number 10]
+Sister 29-4-0 wins round
+*******************
+Round 435
+Brother 5-14-0
+Sister 29-4-0
+Player1 card [Hearts Number 2]  vs Player2 card [Spades Number 7]
+Sister 28-6-0 wins round
+*******************
+Round 436
+Brother 4-14-0
+Sister 28-6-0
+Player1 card [Diamonds Ace 14]  vs Player2 card [Clubs Number 10]
+Brother 3-16-0 wins round
+*******************
+Round 437
+Brother 3-16-0
+Sister 27-6-0
+Player1 card [Diamonds Number 4]  vs Player2 card [Diamonds Number 3]
+Brother 2-18-0 wins round
+*******************
+Round 438
+Brother 2-18-0
+Sister 26-6-0
+Player1 card [Spades Number 9]  vs Player2 card [Diamonds Number 6]
+Brother 1-20-0 wins round
+*******************
+Round 439
+Brother 1-20-0
+Sister 25-6-0
+Player1 card [Hearts Number 7]  vs Player2 card [Diamonds Number 2]
+Brother 0-22-0 wins round
+*******************
+Round 440
+Brother 0-22-0
+Sister 24-6-0
+Brother restarting with 22
+Player1 card [Clubs Number 8]  vs Player2 card [Spades Number 3]
+Brother 21-2-0 wins round
+*******************
+Round 441
+Brother 21-2-0
+Sister 23-6-0
+Player1 card [Hearts Number 7]  vs Player2 card [Hearts Number 6]
+Brother 20-4-0 wins round
+*******************
+Round 442
+Brother 20-4-0
+Sister 22-6-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Clubs Number 6]
+Brother 19-6-0 wins round
+*******************
+Round 443
+Brother 19-6-0
+Sister 21-6-0
+Player1 card [Clubs Number 10]  vs Player2 card [Spades Number 2]
+Brother 18-8-0 wins round
+*******************
+Round 444
+Brother 18-8-0
+Sister 20-6-0
+Player1 card [Diamonds Number 2]  vs Player2 card [Clubs Number 9]
+Sister 19-8-0 wins round
+*******************
+Round 445
+Brother 17-8-0
+Sister 19-8-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Hearts King 13]
+Brother 16-10-0 wins round
+*******************
+Round 446
+Brother 16-10-0
+Sister 18-8-0
+Player1 card [Diamonds Queen 12]  vs Player2 card [Clubs Number 3]
+Brother 15-12-0 wins round
+*******************
+Round 447
+Brother 15-12-0
+Sister 17-8-0
+Player1 card [Diamonds Ace 14]  vs Player2 card [Diamonds Number 9]
+Brother 14-14-0 wins round
+*******************
+Round 448
+Brother 14-14-0
+Sister 16-8-0
+Player1 card [Diamonds Number 3]  vs Player2 card [Diamonds Number 8]
+Sister 15-10-0 wins round
+*******************
+Round 449
+Brother 13-14-0
+Sister 15-10-0
+Player1 card [Hearts Number 3]  vs Player2 card [Spades Number 8]
+Sister 14-12-0 wins round
+*******************
+Round 450
+Brother 12-14-0
+Sister 14-12-0
+Player1 card [Hearts Jack 11]  vs Player2 card [Clubs Number 4]
+Brother 11-16-0 wins round
+*******************
+Round 451
+Brother 11-16-0
+Sister 13-12-0
+Player1 card [Diamonds King 13]  vs Player2 card [Clubs Number 5]
+Brother 10-18-0 wins round
+*******************
+Round 452
+Brother 10-18-0
+Sister 12-12-0
+Player1 card [Spades Number 5]  vs Player2 card [Clubs King 13]
+Sister 11-14-0 wins round
+*******************
+Round 453
+Brother 9-18-0
+Sister 11-14-0
+Player1 card [Spades Number 4]  vs Player2 card [Spades Ace 14]
+Sister 10-16-0 wins round
+*******************
+Round 454
+Brother 8-18-0
+Sister 10-16-0
+Player1 card [Clubs Queen 12]  vs Player2 card [Hearts Number 5]
+Brother 7-20-0 wins round
+*******************
+Round 455
+Brother 7-20-0
+Sister 9-16-0
+Player1 card [Diamonds Number 5]  vs Player2 card [Diamonds Jack 11]
+Sister 8-18-0 wins round
+*******************
+Round 456
+Brother 6-20-0
+Sister 8-18-0
+Player1 card [Hearts Queen 12]  vs Player2 card [Spades Queen 12]
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Hearts Queen 12
+Diamonds Number 6
+Diamonds Number 4
+Spades Number 9
+===================
+===================
+[War] Sister size 4
+Spades Queen 12
+Spades King 13
+Clubs Number 2
+Spades Number 10
+===================
+*******************
+Round 457
+Brother 2-20-4
+Sister 4-18-4
+Player1 card [Hearts Number 8]  vs Player2 card [Hearts Number 4]
+Brother 1-30-0 wins round
+*******************
+Round 458
+Brother 1-30-0
+Sister 3-18-0
+Player1 card [Spades Number 6]  vs Player2 card [Clubs Jack 11]
+Sister 2-20-0 wins round
+*******************
+Round 459
+Brother 0-30-0
+Sister 2-20-0
+Brother restarting with 30
+Player1 card [Diamonds Ace 14]  vs Player2 card [Diamonds Number 10]
+Brother 29-2-0 wins round
+*******************
+Round 460
+Brother 29-2-0
+Sister 1-20-0
+Player1 card [Spades Number 9]  vs Player2 card [Spades Jack 11]
+Sister 0-22-0 wins round
+*******************
+Round 461
+Brother 28-2-0
+Sister 0-22-0
+Sister restarting with 22
+Player1 card [Hearts Number 5]  vs Player2 card [Diamonds Number 5]
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Hearts Number 5
+Diamonds Number 9
+Clubs Number 4
+Clubs Number 3
+===================
+===================
+[War] Sister size 4
+Diamonds Number 5
+Spades Jack 11
+Hearts Number 9
+Hearts Number 10
+===================
+*******************
+Round 462
+Brother 24-2-4
+Sister 18-0-4
+Player1 card [Clubs Queen 12]  vs Player2 card [Clubs Number 7]
+Brother 23-12-0 wins round
+*******************
+Round 463
+Brother 23-12-0
+Sister 17-0-0
+Player1 card [Spades Number 10]  vs Player2 card [Spades Ace 14]
+Sister 16-2-0 wins round
+*******************
+Round 464
+Brother 22-12-0
+Sister 16-2-0
+Player1 card [Hearts King 13]  vs Player2 card [Diamonds Number 7]
+Brother 21-14-0 wins round
+*******************
+Round 465
+Brother 21-14-0
+Sister 15-2-0
+Player1 card [Diamonds Number 4]  vs Player2 card [Hearts Number 3]
+Brother 20-16-0 wins round
+*******************
+Round 466
+Brother 20-16-0
+Sister 14-2-0
+Player1 card [Diamonds Number 6]  vs Player2 card [Spades Number 8]
+Sister 13-4-0 wins round
+*******************
+Round 467
+Brother 19-16-0
+Sister 13-4-0
+Player1 card [Spades Number 3]  vs Player2 card [Diamonds Jack 11]
+Sister 12-6-0 wins round
+*******************
+Round 468
+Brother 18-16-0
+Sister 12-6-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Clubs Number 9]
+Brother 17-18-0 wins round
+*******************
+Round 469
+Brother 17-18-0
+Sister 11-6-0
+Player1 card [Diamonds Queen 12]  vs Player2 card [Spades Number 4]
+Brother 16-20-0 wins round
+*******************
+Round 470
+Brother 16-20-0
+Sister 10-6-0
+Player1 card [Spades King 13]  vs Player2 card [Spades Number 6]
+Brother 15-22-0 wins round
+*******************
+Round 471
+Brother 15-22-0
+Sister 9-6-0
+Player1 card [Spades Number 2]  vs Player2 card [Clubs Jack 11]
+Sister 8-8-0 wins round
+*******************
+Round 472
+Brother 14-22-0
+Sister 8-8-0
+Player1 card [Hearts Jack 11]  vs Player2 card [Spades Number 9]
+Brother 13-24-0 wins round
+*******************
+Round 473
+Brother 13-24-0
+Sister 7-8-0
+Player1 card [Hearts Queen 12]  vs Player2 card [Hearts Number 2]
+Brother 12-26-0 wins round
+*******************
+Round 474
+Brother 12-26-0
+Sister 6-8-0
+Player1 card [Clubs Number 5]  vs Player2 card [Spades Number 5]
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Clubs Number 5
+Hearts Number 4
+Hearts Number 8
+Clubs Number 6
+===================
+===================
+[War] Sister size 4
+Spades Number 5
+Diamonds Number 8
+Diamonds Number 3
+Clubs King 13
+===================
+*******************
+Round 475
+Brother 8-26-4
+Sister 2-8-4
+Player1 card [Hearts Number 6]  vs Player2 card [Diamonds Number 2]
+Brother 7-36-0 wins round
+*******************
+Round 476
+Brother 7-36-0
+Sister 1-8-0
+Player1 card [Clubs Ace 14]  vs Player2 card [Spades Number 7]
+Brother 6-38-0 wins round
+*******************
+Round 477
+Brother 6-38-0
+Sister 0-8-0
+Sister restarting with 8
+Player1 card [Hearts Number 7]  vs Player2 card [Diamonds Number 6]
+Brother 5-40-0 wins round
+*******************
+Round 478
+Brother 5-40-0
+Sister 7-0-0
+Player1 card [Clubs Number 10]  vs Player2 card [Spades Ace 14]
+Sister 6-2-0 wins round
+*******************
+Round 479
+Brother 4-40-0
+Sister 6-2-0
+Player1 card [Spades Queen 12]  vs Player2 card [Spades Number 3]
+Brother 3-42-0 wins round
+*******************
+Round 480
+Brother 3-42-0
+Sister 5-2-0
+Player1 card [Diamonds King 13]  vs Player2 card [Spades Number 2]
+Brother 2-44-0 wins round
+*******************
+Round 481
+Brother 2-44-0
+Sister 4-2-0
+Player1 card [Clubs Number 2]  vs Player2 card [Spades Number 10]
+Sister 3-4-0 wins round
+*******************
+Round 482
+Brother 1-44-0
+Sister 3-4-0
+Player1 card [Clubs Number 8]  vs Player2 card [Clubs Jack 11]
+Sister 2-6-0 wins round
+*******************
+Round 483
+Brother 0-44-0
+Sister 2-6-0
+Brother restarting with 44
+Player1 card [Spades Number 9]  vs Player2 card [Diamonds Jack 11]
+Sister 1-8-0 wins round
+*******************
+Round 484
+Brother 43-0-0
+Sister 1-8-0
+Player1 card [Hearts Queen 12]  vs Player2 card [Spades Number 8]
+Brother 42-2-0 wins round
+*******************
+Round 485
+Brother 42-2-0
+Sister 0-8-0
+Sister restarting with 8
+Player1 card [Spades King 13]  vs Player2 card [Spades Number 9]
+Brother 41-4-0 wins round
+*******************
+Round 486
+Brother 41-4-0
+Sister 7-0-0
+Player1 card [Diamonds Number 7]  vs Player2 card [Clubs Jack 11]
+Sister 6-2-0 wins round
+*******************
+Round 487
+Brother 40-4-0
+Sister 6-2-0
+Player1 card [Spades Jack 11]  vs Player2 card [Clubs Number 2]
+Brother 39-6-0 wins round
+*******************
+Round 488
+Brother 39-6-0
+Sister 5-2-0
+Player1 card [Diamonds Number 4]  vs Player2 card [Clubs Number 8]
+Sister 4-4-0 wins round
+*******************
+Round 489
+Brother 38-6-0
+Sister 4-4-0
+Player1 card [Hearts Number 7]  vs Player2 card [Diamonds Jack 11]
+Sister 3-6-0 wins round
+*******************
+Round 490
+Brother 37-6-0
+Sister 3-6-0
+Player1 card [Clubs Number 4]  vs Player2 card [Spades Number 10]
+Sister 2-8-0 wins round
+*******************
+Round 491
+Brother 36-6-0
+Sister 2-8-0
+Player1 card [Diamonds Number 3]  vs Player2 card [Clubs Number 10]
+Sister 1-10-0 wins round
+*******************
+Round 492
+Brother 35-6-0
+Sister 1-10-0
+Player1 card [Hearts Number 9]  vs Player2 card [Spades Ace 14]
+Sister 0-12-0 wins round
+*******************
+Round 493
+Brother 34-6-0
+Sister 0-12-0
+Sister restarting with 12
+Player1 card [Diamonds Ace 14]  vs Player2 card [Clubs Number 4]
+Brother 33-8-0 wins round
+*******************
+Round 494
+Brother 33-8-0
+Sister 11-0-0
+Player1 card [Spades Number 4]  vs Player2 card [Hearts Number 7]
+Sister 10-2-0 wins round
+*******************
+Round 495
+Brother 32-8-0
+Sister 10-2-0
+Player1 card [Hearts Number 10]  vs Player2 card [Diamonds Number 7]
+Brother 31-10-0 wins round
+*******************
+Round 496
+Brother 31-10-0
+Sister 9-2-0
+Player1 card [Diamonds Queen 12]  vs Player2 card [Clubs Number 8]
+Brother 30-12-0 wins round
+*******************
+Round 497
+Brother 30-12-0
+Sister 8-2-0
+Player1 card [Hearts Number 6]  vs Player2 card [Spades Number 10]
+Sister 7-4-0 wins round
+*******************
+Round 498
+Brother 29-12-0
+Sister 7-4-0
+Player1 card [Hearts Number 8]  vs Player2 card [Clubs Number 10]
+Sister 6-6-0 wins round
+*******************
+Round 499
+Brother 28-12-0
+Sister 6-6-0
+Player1 card [Spades Number 5]  vs Player2 card [Diamonds Jack 11]
+Sister 5-8-0 wins round
+*******************
+Round 500
+Brother 27-12-0
+Sister 5-8-0
+Player1 card [Diamonds Number 10]  vs Player2 card [Diamonds Number 4]
+Brother 26-14-0 wins round
+*******************
+Round 501
+Brother 26-14-0
+Sister 4-8-0
+Player1 card [Spades Number 3]  vs Player2 card [Hearts Number 9]
+Sister 3-10-0 wins round
+*******************
+Round 502
+Brother 25-14-0
+Sister 3-10-0
+Player1 card [Hearts Number 3]  vs Player2 card [Spades Ace 14]
+Sister 2-12-0 wins round
+*******************
+Round 503
+Brother 24-14-0
+Sister 2-12-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Clubs Jack 11]
+Brother 23-16-0 wins round
+*******************
+Round 504
+Brother 23-16-0
+Sister 1-12-0
+Player1 card [Diamonds Number 2]  vs Player2 card [Diamonds Number 3]
+Sister 0-14-0 wins round
+*******************
+Round 505
+Brother 22-16-0
+Sister 0-14-0
+Sister restarting with 14
+Player1 card [Clubs Number 9]  vs Player2 card [Diamonds Number 2]
+Brother 21-18-0 wins round
+*******************
+Round 506
+Brother 21-18-0
+Sister 13-0-0
+Player1 card [Spades Number 2]  vs Player2 card [Hearts Number 7]
+Sister 12-2-0 wins round
+*******************
+Round 507
+Brother 20-18-0
+Sister 12-2-0
+Player1 card [Hearts Number 4]  vs Player2 card [Spades Number 4]
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Hearts Number 4
+Clubs Queen 12
+Spades Queen 12
+Diamonds Number 9
+===================
+===================
+[War] Sister size 4
+Spades Number 4
+Hearts Number 9
+Hearts Number 8
+Diamonds Jack 11
+===================
+*******************
+Round 508
+Brother 16-18-4
+Sister 8-2-4
+Player1 card [Clubs Ace 14]  vs Player2 card [Diamonds Number 3]
+Brother 15-28-0 wins round
+*******************
+Round 509
+Brother 15-28-0
+Sister 7-2-0
+Player1 card [Hearts Jack 11]  vs Player2 card [Spades Number 10]
+Brother 14-30-0 wins round
+*******************
+Round 510
+Brother 14-30-0
+Sister 6-2-0
+Player1 card [Diamonds King 13]  vs Player2 card [Spades Number 5]
+Brother 13-32-0 wins round
+*******************
+Round 511
+Brother 13-32-0
+Sister 5-2-0
+Player1 card [Hearts Number 2]  vs Player2 card [Spades Ace 14]
+Sister 4-4-0 wins round
+*******************
+Round 512
+Brother 12-32-0
+Sister 4-4-0
+Player1 card [Clubs Number 3]  vs Player2 card [Hearts Number 6]
+Sister 3-6-0 wins round
+*******************
+Round 513
+Brother 11-32-0
+Sister 3-6-0
+Player1 card [Spades Number 6]  vs Player2 card [Clubs Number 10]
+Sister 2-8-0 wins round
+*******************
+Round 514
+Brother 10-32-0
+Sister 2-8-0
+Player1 card [Clubs Number 6]  vs Player2 card [Hearts Number 3]
+Brother 9-34-0 wins round
+*******************
+Round 515
+Brother 9-34-0
+Sister 1-8-0
+Player1 card [Hearts Number 5]  vs Player2 card [Spades Number 3]
+Brother 8-36-0 wins round
+*******************
+Round 516
+Brother 8-36-0
+Sister 0-8-0
+Sister restarting with 8
+Player1 card [Diamonds Number 6]  vs Player2 card [Hearts Number 2]
+Brother 7-38-0 wins round
+*******************
+Round 517
+Brother 7-38-0
+Sister 7-0-0
+Player1 card [Clubs Number 7]  vs Player2 card [Hearts Number 6]
+Brother 6-40-0 wins round
+*******************
+Round 518
+Brother 6-40-0
+Sister 6-0-0
+Player1 card [Clubs Number 5]  vs Player2 card [Clubs Number 10]
+Sister 5-2-0 wins round
+*******************
+Round 519
+Brother 5-40-0
+Sister 5-2-0
+Player1 card [Clubs King 13]  vs Player2 card [Clubs Number 3]
+Brother 4-42-0 wins round
+*******************
+Round 520
+Brother 4-42-0
+Sister 4-2-0
+Player1 card [Diamonds Number 8]  vs Player2 card [Spades Ace 14]
+Sister 3-4-0 wins round
+*******************
+Round 521
+Brother 3-42-0
+Sister 3-4-0
+Player1 card [Diamonds Number 5]  vs Player2 card [Spades Number 6]
+Sister 2-6-0 wins round
+*******************
+Round 522
+Brother 2-42-0
+Sister 2-6-0
+Player1 card [Spades Number 7]  vs Player2 card [Spades Number 2]
+Brother 1-44-0 wins round
+*******************
+Round 523
+Brother 1-44-0
+Sister 1-6-0
+Player1 card [Hearts King 13]  vs Player2 card [Hearts Number 7]
+Brother 0-46-0 wins round
+*******************
+Round 524
+Brother 0-46-0
+Sister 0-6-0
+Brother restarting with 46
+Sister restarting with 6
+Player1 card [Clubs Queen 12]  vs Player2 card [Spades Number 6]
+Brother 45-2-0 wins round
+*******************
+Round 525
+Brother 45-2-0
+Sister 5-0-0
+Player1 card [Hearts Ace 14]  vs Player2 card [Spades Ace 14]
+xxxxx War declared xxxxx
+===================
+[War] Brother size 4
+Hearts Ace 14
+Hearts Jack 11
+Hearts Number 3
+Spades Number 9
+===================
+===================
+[War] Sister size 4
+Spades Ace 14
+Diamonds Number 5
+Clubs Number 10
+Diamonds Number 8
+===================
+*******************
+Round 526
+Brother 41-2-4
+Sister 1-0-4
+Player1 card [Spades Jack 11]  vs Player2 card [Clubs Number 5]
+Brother 40-12-0 wins round
+*******************
+Round 527
+Brother 40-12-0
+Sister 0-0-0
+Sister 0-0-0 loses

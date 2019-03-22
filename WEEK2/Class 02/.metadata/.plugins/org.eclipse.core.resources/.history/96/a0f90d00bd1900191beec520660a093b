@@ -1,0 +1,40 @@
+package practice;
+
+import java.util.ArrayList;
+
+public class OrderedPairDemo{
+
+	private static final int MAX = 10;
+	
+	public static void main(String[] args) {
+		
+		ArrayList<OrderedPair<Integer>> myList = new ArrayList<>();
+		for(int i = 0; i<10; i++){
+			myList.add(new OrderedPair<Integer>(1,i));
+		}
+		
+		for(int i = 0; i < myList.size(); i++)	{	
+			System.out.println(myList.get(i));
+		}
+		
+		ArrayList<OrderedPair<Integer>> pairs = new ArrayList<>();
+		for(int i = 1; i < MAX; i++)
+			pairs.add(new OrderedPair<Integer>(1,i));
+		
+		System.out.println("Displaying pairs");
+		for(int i = 0; i < pairs.size(); i++)	{	
+			System.out.println(pairs.get(i));
+			pairs.get(i).changeOrder();		
+		}
+		
+		
+//		
+//		ArrayList<Integer> intList = new ArrayList<>(); 
+//		for(int j = 0; j<10; j++)
+//			intList.add(j);
+//
+//		for(int i = 0; i < intList.size(); i++)
+//			System.out.println(intList.get(i));
+	}
+
+}

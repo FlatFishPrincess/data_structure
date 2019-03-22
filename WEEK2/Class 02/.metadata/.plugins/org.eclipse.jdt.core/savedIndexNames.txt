@@ -1,0 +1,8 @@
+INDEX VERSION 1.130+/Users/jiweonpark/Desktop/2019Winter/DATA STRUCTURE/WEEK2/Class 02/.metadata/.plugins/org.eclipse.jdt.core
+504079247.index
+1405282417.index
+4198939195.index
+3853847068.index
+2766134696.index
+592963367.index
+2144292418.index
