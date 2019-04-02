@@ -1,6 +1,8 @@
 /DictionaryInterface.class
 /HashMapDictionary.class
 /HashedDictionary$Entry.class
+/HashedDictionary$KeyIterator.class
+/HashedDictionary$ValueIterator.class
 /HashedDictionary.class
 /HashedDictionaryDemo.class
 /Name.class

@@ -106,6 +106,16 @@ public class AnagramsUsingDictionaryInterface {
 	    while (sc.hasNextLine()) {
 	    	// list for values 
 	    	 valueList = new ArrayList<String>();
+	    	 
+	    	 
+	    	 // ----------- class ----------------
+	    	 // if getValue is null, then create value list  ->
+//	    	 if(anagrampsMap.getValue == null) 
+//	    		 valueList = new ArrayList<String>();
+//	    	 valueList.addAll(value);
+	    	 // then add value into value list -> valueList.add(value)
+	    	 
+	    	 
 	    	  String value = sc.nextLine();
 	    	  String key = sortString(value);
 //	    	  System.out.println("sorted key = [" + key + "] value = " + value);

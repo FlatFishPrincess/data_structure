@@ -3,6 +3,11 @@ import java.util.Collection;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
+//import HashedDictionary.KeyIterator;
+
+//import HashedDictionary.KeyIterator;
+//import HashedDictionary.ValueIterator;
+
 
 //import HashedDictionary.Entry;
 
@@ -132,14 +137,21 @@ public class HashedDictionary<K, V> implements DictionaryInterface<K, V> {
 	@Override
 	public boolean contains(K key) {
 		boolean found = false;
-		for (Entry<K, V> entry : hashTable) {
-			if(entry != null ){
-				if(entry.getKey().equals(key)){
-					found = true;
-					break;
-				}
-			}
+		int keyHash = getHashIndex(key);
+		Iterator<K> keySet = getKeyIterator();
+		
+		while(keySet.hasNext()){
+			
 		}
+		
+//		KeyIterator ki = new KeyIterator();
+//		while(keySet.hasNext()){
+//			if(keySet.next().equals(key)){
+//				found = true;
+//				break;
+//			}
+//		}
+
 		return found;
 	}
 
@@ -165,31 +177,26 @@ public class HashedDictionary<K, V> implements DictionaryInterface<K, V> {
 	
 	@Override
 	public Iterator<K> getKeyIterator() {
-		Iterator<K> keyIterator;
-		Collection<K> keyList = new ArrayList<K>();
-		for(Entry<K, V> entry : hashTable){
-			if(entry != null){
-				K key = entry.getKey();
-				if(key != null)
-					keyList.add(key);
-			}
+		KeyIterator ki = new KeyIterator();
+		Iterator<K> result = null;
+		ArrayList<K> list = new ArrayList<K>();
+		while(ki.hasNext()){
+			list.add(ki.next());
 		}
-		keyIterator = (Iterator<K>) keyList.iterator();
-		return keyIterator;
+		result = list.iterator();
+		return result;
 	}
 
 	@Override
 	public Iterator<V> getValueIterator() {
-		Iterator<V> valueIterator;
-		Collection<V> valueList = new ArrayList<V>();
-		for(Entry<K, V> entry : hashTable){
-			if(entry != null){
-				V value = entry.getValue();
-				valueList.add(value);
-			}
+		ValueIterator vi = new ValueIterator();
+		Iterator<V> result = null;
+		ArrayList<V> list = new ArrayList<V>();
+		while(vi.hasNext()){
+			list.add(vi.next());
 		}
-		valueIterator = (Iterator<V>) valueList.iterator();
-		return valueIterator;
+		result = list.iterator();
+		return result;
 	}
 	
 	/**
@@ -402,6 +409,70 @@ public class HashedDictionary<K, V> implements DictionaryInterface<K, V> {
 		} // end setValue
 	} // end Entry
 
+	private class KeyIterator implements Iterator<K> {
+		private int currentIndex; // Current position in hash table 
+		private int numberLeft; // Number of entries left in iteration
+		
+		private KeyIterator() {
+			currentIndex = 0;
+			numberLeft = numberOfEntries;
+		}
+		public boolean hasNext() {
+			return numberLeft > 0;
+		}
+		
+		public K next() {
+			K result = null;
+			if (hasNext()) {
+				while (!hasAnEntry(currentIndex)) {
+					currentIndex++;
+				}
+				result = hashTable[currentIndex].getKey();
+				numberLeft--;
+				currentIndex++;
+			} else
+				throw new NoSuchElementException();
+			
+			return result;
+		}
+		
+		public void remove() {
+			throw new UnsupportedOperationException();
+		}
+		
+	}
+	
+	private class ValueIterator implements Iterator<V> {
+		private int currentIndex;
+		private int numberLeft;
+		
+		private ValueIterator() {
+			currentIndex = 0;
+			numberLeft = numberOfEntries;
+		}
+		
+		public boolean hasNext() {
+			return numberLeft > 0;
+		}
+		
+		public V next() {
+			V result = null;
+			if (hasNext()) {
+				while (!hasAnEntry(currentIndex)) {
+					 currentIndex++;
+				}
+				result = hashTable[currentIndex].getValue();
+				numberLeft--;
+				currentIndex++;
+			}else
+				throw new NoSuchElementException();
+			return result;
+		}
+
+		public void remove() {
+			throw new UnsupportedOperationException();
+		}
+	}
 
 
 } // end HashedDictionary

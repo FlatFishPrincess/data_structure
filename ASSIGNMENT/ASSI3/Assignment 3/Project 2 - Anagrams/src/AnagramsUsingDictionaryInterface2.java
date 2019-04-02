@@ -38,7 +38,7 @@ public class AnagramsUsingDictionaryInterface2 {
 		};
 
 		// get all anagrams for all words in the file.
-		createAnagrams("dictionary.txt", anagrams);
+		createAnagrams("dictionary2.txt", anagrams);
 
 		// display all anagrams for the list of test words to the console
 		
@@ -108,14 +108,13 @@ public class AnagramsUsingDictionaryInterface2 {
 	    	valueList = new ArrayList<String>();
 	    	String value = sc.nextLine();
 	    	String key = sortString(value);
-//	    	System.out.println("key: " + key + " value: " + value);
+	    	System.out.println("key: " + key + " value: " + value);
 	    	if(anagramsMap.contains(key)){
 	    		valueList = anagramsMap.getValue(key);
-//	    		System.out.println("key found! with values == " + valueList);
+	    		System.out.println("key found! with values == " + valueList);
 	    	} 
 	    	valueList.add(value);
 	    	anagramsMap.add(key, valueList);
-
 	    }
 	}
 

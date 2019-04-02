@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/jiweonpark/Desktop/2019Winter/DATA STRUCTURE/ASSIGNMENT/ASSI3/Assignment 3/Project 2 - Anagrams"/>
+		<item value="/Users/jiweonpark/Desktop/2019Winter/DATA STRUCTURE/WEEK9(Hashing)/Hashing - Solution"/>
 		<item value="/Users/jiweonpark/Desktop/2019Winter/DATA STRUCTURE/ASSIGNMENT/ASSI3/Assignment 3"/>
 		<item value="/Users/jiweonpark/Desktop/2019Winter/DATA STRUCTURE/WEEK10(TREES)/Trees"/>
 	</list>

@@ -100,8 +100,7 @@ public class BinaryTree<T> implements BinaryTreeInterface<T> {
 
 	@Override
 	public Iterator<T> getPreorderIterator() {
-		// TODO Auto-generated method stub
-		return null;
+		return new PreorderIterator();
 	}
 
 	@Override
@@ -112,8 +111,7 @@ public class BinaryTree<T> implements BinaryTreeInterface<T> {
 
 	@Override
 	public Iterator<T> getInorderIterator() {
-		// TODO Auto-generated method stub
-		return null;
+		return new InorderIterator();
 	}
 
 	@Override
@@ -133,5 +131,140 @@ public class BinaryTree<T> implements BinaryTreeInterface<T> {
 	 * isEmpty, clear, and the methods specified in TreeIteratorInterface are here.
 	 * . . .
 	 */
+	
+	private class InorderIterator implements Iterator<T>
+	{
+	   private StackInterface<BinaryNode<T>> nodeStack;
+	   private BinaryNode<T> currentNode;
+
+	   public InorderIterator()
+	   {
+	      nodeStack = new LinkedStack<>();
+	      currentNode = root;
+	   } // end default constructor
+
+	   public boolean hasNext() 
+	   {
+	      return !nodeStack.isEmpty() || (currentNode != null);
+	   } // end hasNext
+
+	   public T next()
+	   {
+	      BinaryNode<T> nextNode = null;
+
+	      // Find leftmost node with no left child
+	      while (currentNode != null)
+	      {
+	         nodeStack.push(currentNode);
+	         currentNode = currentNode.getLeftChild();
+	      } // end while
+
+	      // Get leftmost node, then move to its right subtree
+	      if (!nodeStack.isEmpty())
+	      {
+	         nextNode = nodeStack.pop();
+	         // Assertion: nextNode != null, since nodeStack was not empty
+	         // before the pop
+	         currentNode = nextNode.getRightChild();
+	      }
+	      else
+	         throw new NoSuchElementException();
+
+	      return nextNode.getData(); 
+	   } // end next
+
+	   public void remove()
+	   {
+	      throw new UnsupportedOperationException();
+	   } // end remove
+	} // end InorderIterator
+	
+	private class PreorderIterator implements Iterator<T>
+	{
+	   private StackInterface<BinaryNode<T>> nodeStack;
+
+	   public PreorderIterator()
+	   {
+	      nodeStack = new LinkedStack<>();
+	      if(root != null)
+	    	  nodeStack.push(root);
+	   } // end default constructor
+
+	   public boolean hasNext() 
+	   {
+	      return !nodeStack.isEmpty();
+	   } // end hasNext
+
+	   public T next()
+	   {
+	      BinaryNode<T> nextNode = null;
+	      if(hasNext()){
+	    	  nextNode = nodeStack.pop();
+	    	  BinaryNode leftChild = nextNode.getLeftChild();
+	    	  BinaryNode rightChild = nextNode.getRightChild();
+	    	  
+	    	  if(rightChild != null)
+	    		  nodeStack.push(rightChild);
+	    	  if(leftChild != null)
+	    		  nodeStack.push(leftChild);
+	      }
+
+	      return nextNode.getData(); 
+	   } // end next
+
+	   public void remove()
+	   {
+	      throw new UnsupportedOperationException();
+	   } // end remove
+	} // end Preporder
+	
+	private class PostIterator implements Iterator<T>
+	{
+	   private StackInterface<BinaryNode<T>> nodeStack;
+	   private BinaryNode<T> currentNode;
+	   
+	   public PostIterator()
+	   {
+	      nodeStack = new LinkedStack<>();
+	      currentNode = root;
+	   } // end default constructor
+
+	   public boolean hasNext() 
+	   {
+	      return !nodeStack.isEmpty() || currentNode != null;
+	   } // end hasNext
+
+	   public T next(){
+		   
+	      BinaryNode<T> leftChild, rightChild, nextNode = null;
+	      boolean foundNext = false;
+	      
+	      // find leftmost node
+	      while (currentNode != null){
+		    nodeStack.push(currentNode);
+		    leftChild = currentNode.getLeftChild();
+		    if (leftChild == null)	
+		    	currentNode = currentNode.getRightChild();
+		    else
+		    	currentNode = leftChild;
+		  } 
+	      if (!nodeStack.isEmpty()){
+		    nextNode = nodeStack.pop();
+		    // nextNode != null since stack was not empty before pop
+		    BinaryNode<T> parent = nodeStack.peek();
+		    if (parent != null && nextNode == parent.getLeftChild())
+		    	currentNode = parent.getRightChild();	
+		    else
+		    	currentNode = null;
+		  } else
+			  throw new NoSuchElementException();
+	      return nextNode.getData();
+	   } // end next
+
+	   public void remove()
+	   {
+	      throw new UnsupportedOperationException();
+	   } // end remove
+	} // end PostIterator
 
 } // end BinaryTree
