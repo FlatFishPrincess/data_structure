@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Compression/src/Compression&apos;&#x0A;- Original project: &apos;Trees&apos;&#x0A;- Destination element: &apos;Compression/src/Compression&apos;&#x0A;- Original elements:&#x0A;     StackAndQueuePackage.LinkedStack.java&#x0A;     StackAndQueuePackage.StackInterface.java" description="Copy compilation units" destination="=Compression/src&lt;Compression" element1="/src&lt;StackAndQueuePackage{LinkedStack.java" element2="/src&lt;StackAndQueuePackage{StackInterface.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1554312771417" units="2" version="1.0"/>
+</session>

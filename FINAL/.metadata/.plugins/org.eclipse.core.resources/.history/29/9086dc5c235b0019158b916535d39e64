@@ -1,0 +1,126 @@
+package HeapPackage;
+
+import java.util.Arrays;
+
+/**
+ * A class that implements the ADT maxheap by using an array.
+ * 
+ * @author Frank M. Carrano
+ * @author Timothy M. Henry
+ * @version 5.0
+ */
+public final class MaxHeap<T extends Comparable<? super T>> implements MaxHeapInterface<T> {
+	private T[] heap; // Array of heap entries; ignore heap[0]
+	private int lastIndex; // Index of last entry and number of entries
+
+	private static final int DEFAULT_CAPACITY = 25;
+	private static final int MAX_CAPACITY = 10000;
+
+	public MaxHeap() {
+		this(DEFAULT_CAPACITY); // Call next constructor
+	} // end default constructor
+
+	public MaxHeap(int initialCapacity) {
+		// Is initialCapacity too small?
+		if (initialCapacity < DEFAULT_CAPACITY)
+			initialCapacity = DEFAULT_CAPACITY;
+		else // Is initialCapacity too big?
+			checkCapacity(initialCapacity);
+
+		// The cast is safe because the new array contains null entries
+		@SuppressWarnings("unchecked")
+		T[] tempHeap = (T[]) new Comparable[initialCapacity + 1];
+		heap = tempHeap;
+		lastIndex = 0;
+	} // end constructor
+
+	private void checkCapacity(int capacity) {
+		if (capacity < DEFAULT_CAPACITY)
+			throw new IllegalStateException(
+					"Attempt to create a heap " + "whose capacity is smaller than " + DEFAULT_CAPACITY);
+		else if (capacity > MAX_CAPACITY)
+			throw new IllegalStateException(
+					"Attempt to create a heap " + "whose capacity is larger than " + MAX_CAPACITY);
+	} // end checkCapacity
+	
+
+	public void add(T newEntry) {
+		int newIndex = lastIndex + 1;
+		int parentIndex = newIndex/2;
+		while(parentIndex > 0 && heap[parentIndex].compareTo(newEntry) < 0){ // new Entry is bigger than parent
+			heap[newIndex] = heap[parentIndex];
+			heap[parentIndex] = newEntry;
+			newIndex = parentIndex;
+			parentIndex = newIndex/2;
+		}
+		heap[newIndex] = newEntry;
+		lastIndex++;
+		ensureCapacity();
+	} // end add
+
+	private void reheap(int rootIndex){
+		boolean done = false;
+		T startRoot = heap[rootIndex];
+		
+		// assume that always left child index is bigger
+		int largerChildIndex = rootIndex * 2;
+		while(!done && largerChildIndex <= lastIndex){
+			int rightChildIndex = largerChildIndex + 1;
+			if(heap[rightChildIndex].compareTo(heap[largerChildIndex]) > 0){
+				// right child is bigger 
+				largerChildIndex = rightChildIndex;
+			}
+			// then compare with start root 
+			if(heap[largerChildIndex].compareTo(startRoot) > 0){ // child is bigger, swaping them
+				heap[rootIndex] = heap[largerChildIndex];
+				heap[largerChildIndex] = startRoot;
+				largerChildIndex *= largerChildIndex;
+			} else { // startRoot is bigger then child, no need to swap. done = true;
+				done = true;
+			}
+		}
+	}
+	public T removeMax() {
+		return null;
+		// See Segment 27.12.
+	} // end removeMax
+
+	public T getMax() {
+		T root = null;
+		if (!isEmpty())
+			root = heap[1];
+		return root;
+	} // end getMax
+
+	private void checkIntegrity() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public boolean isEmpty() {
+		return lastIndex < 1;
+	} // end isEmpty
+
+	public int getSize() {
+		return lastIndex;
+	} // end getSize
+
+	public void clear() {
+		while (lastIndex > -1) {
+			heap[lastIndex] = null;
+			lastIndex--;
+		} // end while
+		lastIndex = 0;
+	} // end clear
+	
+	private void ensureCapacity() {
+		int numberOfEntries = lastIndex;
+		int capacity = heap.length - 1;
+		if (numberOfEntries >= capacity) {
+			int newCapacity = 2 * capacity;
+			checkCapacity(newCapacity); // Is capacity too big?
+			heap = Arrays.copyOf(heap, newCapacity + 1);
+		} // end if
+	} // end ensureCapacity
+
+} // end MaxHeap

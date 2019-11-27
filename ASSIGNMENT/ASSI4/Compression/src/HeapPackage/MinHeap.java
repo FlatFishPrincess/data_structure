@@ -57,18 +57,37 @@ public final class MinHeap<T extends Comparable<? super T>> implements MinHeapIn
 	}
 
 	public void add(T newEntry) {
-		// your code goes here
+		
+		int newIndex = lastIndex + 1;
+		int parentIndex = newIndex / 2; // parent is always halfway up
+		while ((parentIndex > 0) && newEntry.compareTo(heap[parentIndex]) < 0) {
+			heap[newIndex] = heap[parentIndex];
+			newIndex = parentIndex;
+			parentIndex = newIndex / 2;
+	    } // end while
+		// place the entry in the vacancy/leaf and bump the last index (last node of the tree)
+	   heap[newIndex] = newEntry;
+	   lastIndex++;
+	   ensureCapacity();
 	} 
 
 	public T removeMin() {
-		// your code goes here
-		// requires use of reheap() below
-		return null;
+		T root = null;
+	   if (!isEmpty())
+	   {
+	      root = heap[1];            // Return value
+	      heap[1] = heap[lastIndex]; // Form a semiheap
+	      lastIndex--;               // Decrease size
+	      reheap(1);                 // Transform to a heap
+	   } // end if
+		return root;
 	} 
 
 	public T getMin() {
-		// your code goes here
-		return null;
+		T root = null;
+		if (!isEmpty())
+			root = heap[1];
+		return root;
 	} 
 
 	public boolean isEmpty() {
@@ -81,10 +100,11 @@ public final class MinHeap<T extends Comparable<? super T>> implements MinHeapIn
 	} 
 
 	public void clear() {
-		// your code goes here
+		heap = null;
+		lastIndex = 0;
 	}
 
-
+	
 	/**
 	 * Transform a semiheap into a heap.
 	 * 
@@ -92,7 +112,24 @@ public final class MinHeap<T extends Comparable<? super T>> implements MinHeapIn
 	 * @param rootIndex
 	 */
 	private void reheap(int rootIndex) {
-		// your code goes here
+		boolean done = false;
+		T orphan = heap[rootIndex];
+		int leftChildIndex = 2 * rootIndex;
+		while (!done && (leftChildIndex <= lastIndex)) {
+			int smallerChildIndex = leftChildIndex;
+			int rightChildIndex = leftChildIndex + 1;
+			if ((rightChildIndex <= lastIndex) 
+					&& heap[rightChildIndex].compareTo(heap[smallerChildIndex]) < 0) { 
+				smallerChildIndex = rightChildIndex;
+		}
+			if (orphan.compareTo(heap[smallerChildIndex]) > 0) { 
+				heap[rootIndex] = heap[smallerChildIndex]; 
+				rootIndex = smallerChildIndex; 
+				leftChildIndex = 2 * rootIndex;
+			} else
+			done = true;
+		} 
+		heap[rootIndex] = orphan;
 	} 
 
 	// Doubles the capacity of the array heap if it is full.
